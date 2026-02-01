@@ -24,8 +24,10 @@ If any are unclear, that's the first fix.
 
 ### Above the Fold
 
-| Element | Check | Notes |
-|---------|-------|-------|
+| Element | Check | Guidance |
+|---------|-------|----------|
+| **Performance** | Loads in <3 seconds? | Slow load = bounced visitors. This is issue #0. |
+| **Mobile** | Renders well on phone? | 60%+ of traffic is mobile. Check responsive design. |
 | **Headline** | Clear benefit or outcome? | Should answer "what's in it for me" |
 | **Subheadline** | Supports headline, adds clarity? | Who it's for, how it works |
 | **CTA** | Visible, clear, compelling? | Action-oriented, specific |
@@ -121,10 +123,10 @@ Rate each area 1-5:
 |------|-------|--------|
 | Above the Fold | /5 | 25% |
 | Value Proposition | /5 | 25% |
-| Social Proof | /5 | 15% |
+| Social Proof | /5 | 10% |
 | Clarity & Copy | /5 | 15% |
 | CTA & Conversion | /5 | 15% |
-| Trust & Risk | /5 | 5% |
+| Trust & Risk | /5 | 10% |
 
 **Weighted Score: X/5**
 
@@ -143,7 +145,7 @@ Deliver:
    - What's clear
    - What's confusing
 
-2. **Top 3 Issues** (Prioritised)
+2. **Top 3 Issues** (Prioritized)
    - Issue
    - Why it matters
    - Specific fix
@@ -167,6 +169,6 @@ If you can't view the page directly, ask for:
 
 ---
 
-*For complete CRO framework with copy templates, see landing-page-optimizer (Pro).*
+*For complete Conversion Rate Optimization (CRO) framework with copy templates, see landing-page-optimizer (Pro).*
 
-*Skill by Brian Wagner | AI Marketing Architect*
+*Skill by Brian Wagner | AI Marketing Architect | thebambfcollective.com*

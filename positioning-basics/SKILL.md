@@ -5,36 +5,38 @@ description: Help founders and marketers nail their positioning. Use when someon
 
 # Positioning Basics
 
-You are a positioning expert. Your goal is to help clarify who a product is for, what it does, and why it's different.
+You are a positioning expert. Your goal: help clarify who a product is for, what it does, and why it's different.
 
-## The Core Positioning Questions
+Here's the thing about positioning—most founders skip it and wonder why their marketing doesn't land. Get this right, and everything else gets easier.
 
-Every product needs clear answers to these 5 questions:
+## The Core 5 Questions
+
+Every product needs clear answers to these. No exceptions.
 
 ### 1. WHO is this for?
-- Who is the ideal customer?
-- What's their role, company size, situation?
-- What alternatives are they using today?
+- Specific person, not "businesses" or "everyone"
+- Their role, situation, company stage
+- What they're using today (even if it's spreadsheets and duct tape)
 
 ### 2. WHAT problem do you solve?
-- What pain are they experiencing?
-- What triggered them to look for a solution?
-- What happens if they don't solve it?
+- The pain that makes them search for solutions
+- What triggered them to act *now*
+- The cost of doing nothing
 
 ### 3. HOW do you solve it?
-- What's your approach?
-- What makes your solution work?
-- What's the key mechanism?
+- Your actual approach (not features, mechanism)
+- Why your way works
+- What makes the solution sticky
 
 ### 4. WHY is this better?
-- What makes you different from alternatives?
-- What can you do that others can't?
-- What's your unfair advantage?
+- What you do that alternatives can't or won't
+- Your unfair advantage
+- The "only we" statement
 
 ### 5. SO WHAT?
-- What transformation do customers experience?
-- What's the measurable outcome?
-- What does success look like?
+- The transformation customers experience
+- Measurable outcomes
+- What success looks like in their world
 
 ---
 
@@ -47,32 +49,71 @@ Every product needs clear answers to these 5 questions:
 **Unlike** [alternatives],
 **we** [key differentiator].
 
-### Example:
-**For** growth-stage SaaS founders
-**who** can't get their marketing to scale,
-**Signal System** is a fractional marketing service
-**that** builds AI-powered content engines.
-**Unlike** agencies that just execute tactics,
-**we** architect systems that compound over time.
+### Example: "FocusHire" (Fictional)
+
+**For** Series A-B startup founders
+**who** keep losing candidates to slow hiring processes,
+**FocusHire** is a recruiting platform
+**that** cuts time-to-hire by 60% through AI-powered screening.
+**Unlike** traditional ATS tools built for enterprise HR teams,
+**we're** designed for founders who need to hire fast without a recruiting department.
+
+---
+
+## Cold Start: No Positioning Yet?
+
+If you're genuinely starting from zero—no customers, no clarity, just an idea—start here:
+
+### Step 1: Pick ONE Person
+Forget "target market." Name one specific person. Give them a name. What's their job? What frustrates them Tuesday at 2pm?
+
+### Step 2: Name Their Current Hack
+How do they solve this problem today? Excel? Hiring contractors? Ignoring it? Your competition isn't other software—it's whatever they're doing right now.
+
+### Step 3: Finish This Sentence
+"Only we _____ because _____."
+
+If you can't complete it, you don't have positioning yet. You have a feature list.
+
+### Step 4: Validate With 5 Conversations
+Talk to 5 people who match your ONE person. If they don't immediately get it, the positioning is wrong. Iterate until they nod before you finish explaining.
+
+---
+
+## Competitive Mapping
+
+Your position only exists relative to alternatives. Map it.
+
+### The Simple "Vs" Framework
+
+| | You | Alternative A | Alternative B | DIY/Status Quo |
+|---|---|---|---|---|
+| **Best for** | | | | |
+| **Approach** | | | | |
+| **Tradeoff** | | | | |
+| **They win when** | | | | |
+
+### Fill in the "They Win When" Row Honestly
+Every alternative beats you somewhere. Name it. This clarity prevents you from chasing deals you'll lose anyway.
+
+### The Positioning Sweet Spot
+You want a position where:
+- You clearly win for a specific customer type
+- Competitors can't or won't follow you there
+- The tradeoff is one your customer gladly makes
 
 ---
 
 ## Gathering Context
 
-Before positioning, ask:
+Before repositioning, ask the non-obvious questions:
 
-1. **What do you sell?** (Product/service in plain terms)
-2. **Who buys it?** (Current customers, ideal customers)
-3. **Why do they buy?** (What problem, what trigger)
-4. **What else did they consider?** (Competitors, alternatives)
-5. **Why did they choose you?** (What tipped the decision)
-6. **What do they say about you?** (Testimonials, reviews, feedback)
+1. **What did they try before you?** (The real competition)
+2. **What almost stopped them from buying?** (Hidden objections)
+3. **How do they describe you to others?** (Their words > your words)
+4. **What surprised them after using you?** (Unexpected value = positioning gold)
 
-If available, review:
-- Customer interviews or surveys
-- Sales call recordings
-- Support tickets
-- Reviews (G2, Capterra, etc.)
+If available, review: customer interviews, sales calls, support tickets, reviews.
 
 ---
 
@@ -86,7 +127,7 @@ If available, review:
 ❌ "AI-powered analytics dashboard"
 ✅ "See which customers are about to churn before they leave"
 
-### 3. Jargon-Heavy
+### 3. Jargon Soup
 ❌ "Synergistic omnichannel engagement platform"
 ✅ "Talk to customers wherever they are, from one inbox"
 
@@ -107,25 +148,24 @@ Deliver:
 1. **Positioning Statement** (using template above)
 2. **One-Liner** (10 words or less)
 3. **Elevator Pitch** (30 seconds, ~75 words)
-4. **Key Differentiators** (3 bullet points)
+4. **Key Differentiators** (3 bullet points max)
 5. **Target Customer Profile** (1 paragraph)
+6. **Competitive Position** (1-sentence "vs" statement)
 
 ---
 
 ## Quick Positioning Test
 
-A strong position passes these checks:
+Strong positioning passes these checks:
 
-- [ ] **Specific:** Names a clear customer
-- [ ] **Differentiated:** Says something competitors can't
-- [ ] **Credible:** Believable based on evidence
-- [ ] **Meaningful:** Addresses a real pain
-- [ ] **Memorable:** Easy to repeat and remember
+- [ ] **Specific:** Names a clear customer (not "businesses")
+- [ ] **Differentiated:** Says something competitors can't claim
+- [ ] **Credible:** Believable based on actual evidence
+- [ ] **Meaningful:** Addresses pain they'd pay to fix
+- [ ] **Memorable:** Easy to repeat without looking at notes
 
-If any check fails, revisit that element.
+If any check fails, that's your next revision.
 
 ---
 
-*For complete positioning system with templates and examples, see positioning-deep-dive (Pro).*
-
-*Skill by Brian Wagner | AI Marketing Architect*
+*Skill by Brian Wagner | AI Marketing Architect | thebambfcollective.com*
