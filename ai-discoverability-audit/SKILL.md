@@ -146,4 +146,4 @@ Rate each dimension 1-5:
 
 ---
 
-*Skill by Brian Wagner | AI Marketing Architect | thebambfcollective.com*
+*Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*

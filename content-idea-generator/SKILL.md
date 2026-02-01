@@ -145,4 +145,4 @@ Two out of three? Ship it. Zero? Back to the drawing board.
 
 *For full content velocity system with templates and workflows, see content-velocity-engine (Pro).*
 
-*Skill by Brian Wagner | AI Marketing Architect | thebambfcollective.com*
+*Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*

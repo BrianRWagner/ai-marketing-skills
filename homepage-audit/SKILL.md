@@ -171,4 +171,4 @@ If you can't view the page directly, ask for:
 
 *For complete Conversion Rate Optimization (CRO) framework with copy templates, see landing-page-optimizer (Pro).*
 
-*Skill by Brian Wagner | AI Marketing Architect | thebambfcollective.com*
+*Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*

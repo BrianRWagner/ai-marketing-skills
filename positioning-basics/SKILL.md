@@ -168,4 +168,4 @@ If any check fails, that's your next revision.
 
 ---
 
-*Skill by Brian Wagner | AI Marketing Architect | thebambfcollective.com*
+*Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*
