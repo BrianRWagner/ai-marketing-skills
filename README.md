@@ -5,7 +5,7 @@
 Not guides. Not courses. *Skills* — packaged expertise your AI agent loads and follows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-10-green.svg)](#available-skills)
+[![Skills](https://img.shields.io/badge/Skills-12-green.svg)](#available-skills)
 [![Compatible](https://img.shields.io/badge/Works%20With-Claude%20Code%20%7C%20OpenClaw%20%7C%20Copilot-purple.svg)](#compatibility)
 
 ---
@@ -108,6 +108,24 @@ Turn client wins into formatted case studies for proposals, social proof, and sa
 **Use when:** "Write a case study", "Document results", "Client success story", "Build social proof"
 
 → [case-study-builder/SKILL.md](./case-study-builder/SKILL.md)
+
+---
+
+#### 📝 Proposal Generator
+Generate consulting proposals and statements of work. Scope projects, structure pricing, close deals.
+
+**Use when:** "Write a proposal", "SOW template", "Scope this project", "Consulting proposal"
+
+→ [proposal-generator/SKILL.md](./proposal-generator/SKILL.md)
+
+---
+
+#### ⭐ Testimonial Collector
+Systematically gather and format client testimonials for social proof.
+
+**Use when:** "Get testimonials", "Social proof", "Client quotes", "Build credibility"
+
+→ [testimonial-collector/SKILL.md](./testimonial-collector/SKILL.md)
 
 ---
 
