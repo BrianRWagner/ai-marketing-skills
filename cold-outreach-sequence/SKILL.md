@@ -3,136 +3,118 @@ name: cold-outreach-sequence
 description: Build personalized cold outreach sequences for LinkedIn and email. Use when someone needs to reach prospects, warm up cold leads, or build a systematic outreach engine. Covers research, connection requests, follow-ups, and conversion.
 ---
 
-# Cold Outreach Sequence Builder
+# Cold Outreach Sequence
 
-You are a cold outreach strategist. Your job is to build personalized, non-cringe outreach sequences that start conversations — not get ignored.
+Here's what I've learned about cold outreach: the word "cold" is the problem.
 
-**The core principle:** Outreach that works isn't about you. It's about demonstrating you understand THEM, then offering genuine value.
+If you're sending messages to strangers who've never heard of you, with templates you copied from some guru — yeah, that's cold. And it doesn't work.
 
----
+But if you've done even 10 minutes of research, found something specific about them, and have a genuine reason to reach out? That's not cold. That's just... reaching out.
 
-## Before Building Sequences
-
-Gather this context (ask if not provided):
-1. **Who are you?** — Role, expertise, what you help with
-2. **Who are you targeting?** — Title, company stage, industry
-3. **What's the offer?** — What do you want them to do? (Call, reply, check something out)
-4. **What's your proof?** — Relevant experience, case studies, credibility anchors
-5. **What's your angle?** — Why would they care right now?
+This skill helps you do the second thing.
 
 ---
 
-## The Research Phase (Before Any Outreach)
+## Before You Write a Single Message
 
-Cold outreach fails when it's actually cold. Do the work first.
+The research is the work. Skip it and you'll sound like everyone else in their inbox.
 
-### For Each Prospect, Document:
+**For each prospect, find:**
+
 - **Recent news** — Funding, launches, hires, press
-- **Their content** — What are they posting about? What do they care about?
-- **Their pain** — What's likely keeping them up at night given their role + stage?
-- **The connection point** — What can you genuinely comment on?
+- **What they're posting about** — Their content tells you what they care about
+- **Their likely pain** — Given their role and stage, what's keeping them up?
+- **Your connection point** — What can you genuinely comment on?
 
-### Research Sources:
-- LinkedIn activity (posts, comments, shares)
+**Where to look:**
+- Their LinkedIn activity (posts, comments, shares)
 - Company news (Crunchbase, TechCrunch, press releases)
 - Their website (about page, blog, careers)
 - Podcasts they've appeared on
-- Twitter/X activity
 
-**Time investment:** 10-15 minutes per high-value prospect. This is what separates you from the spam.
+**Time investment:** 10-15 minutes per high-value prospect.
+
+This is what separates you from spam.
 
 ---
 
-## The Outreach Framework
+## The Connection Request (LinkedIn)
 
-### Stage 1: Connection Request (LinkedIn)
+You have 300 characters. Don't waste them on a pitch.
 
-**Length:** 1-2 sentences max (300 character limit)
-
-**Formula:**
-```
-[Specific observation about them/company] + [Simple reason to connect]
-```
+**The formula:**
+> [Specific observation] + [Simple reason to connect]
 
 **Examples:**
+
 > "Following [Company]'s growth — the [specific thing] is smart positioning. Would love to connect."
 
-> "[Specific post] resonated. Been thinking about the same thing. Happy to connect."
+> "[Their recent post] resonated. Been thinking about the same thing. Happy to connect."
 
-> "Congrats on [news/milestone]. Impressive trajectory. Would love to follow along."
+> "Congrats on [news]. Impressive trajectory."
 
-**Rules:**
-- NO pitching in connection request
+**The rules:**
+- No pitching. At all.
 - Be specific (prove you looked)
 - Keep it human
 - No "I'd love to pick your brain"
 
 ---
 
-### Stage 2: First Message (After They Accept)
+## First Message (After They Accept)
 
-**Timing:** 24-48 hours after connection
+Wait 24-48 hours. Then:
 
-**Length:** 3-5 sentences
-
-**Formula:**
-```
-[Thanks for connecting] + [Bridge to relevance] + [Light value/observation] + [Soft open question]
-```
+**The formula:**
+> [Thanks] + [Bridge to relevance] + [Light value] + [Soft question]
 
 **Example:**
-> Thanks for connecting. I've been working at the intersection of [relevant area] — [credibility anchor in one line].
+
+> Thanks for connecting. I've been working at the intersection of [relevant area] — [one-line credibility].
 >
 > Curious if you have someone owning [relevant function] as you scale, or if that's still founder-led?
 >
 > Either way, happy to share what I'm seeing work in the space.
 
-**Rules:**
+**The rules:**
 - Still not a hard pitch
 - Demonstrate relevance, not desperation
 - Ask a question that invites dialogue
-- Offer value without strings
+- Offer value without strings attached
 
 ---
 
-### Stage 3: Follow-Up (If No Response)
+## First Follow-Up (If No Response)
 
-**Timing:** 5-7 days after first message
+Wait 5-7 days. Then:
 
-**Length:** 2-3 sentences
-
-**Formula:**
-```
-[Light nudge] + [New angle or value add] + [Easy out]
-```
-
-**Examples:**
-> "Bumping this up — know you're probably slammed. Came across [relevant thing] and thought of your situation at [Company]. Worth a look if helpful."
-
-> "Following up — been seeing [trend] hit companies at your stage hard. Happy to share what's working if useful. If not, no worries."
-
-**Rules:**
-- Don't just say "following up"
-- Add new information or value
-- Give them an easy out (removes pressure)
-
----
-
-### Stage 4: Break-Up Message (Final Attempt)
-
-**Timing:** 7-10 days after follow-up
-
-**Length:** 2 sentences
-
-**Formula:**
-```
-[Acknowledge silence] + [Leave door open] + [Move on with dignity]
-```
+**The formula:**
+> [Light nudge] + [New value or angle] + [Easy out]
 
 **Example:**
-> "I'll assume the timing isn't right — totally get it. If [relevant pain point] becomes a priority down the road, happy to reconnect. Best of luck with [specific thing]."
 
-**Rules:**
+> Bumping this up — know you're slammed. Came across [relevant thing] and thought of your situation at [Company]. Worth a look if helpful.
+
+**Or:**
+
+> Following up — been seeing [trend] hit companies at your stage. Happy to share what's working if useful. If not, no worries.
+
+**The rules:**
+- Don't just say "following up"
+- Add something new
+- Give them an easy out (takes the pressure off)
+
+---
+
+## The Break-Up (Final Attempt)
+
+Wait 7-10 days. Then move on gracefully:
+
+**Example:**
+
+> I'll assume timing isn't right — totally get it. If [relevant pain point] becomes a priority down the road, happy to reconnect. Best of luck with [specific thing they're working on].
+
+**The rules:**
 - No guilt trips
 - No "just checking in one last time"
 - Leave with class
@@ -140,15 +122,19 @@ Cold outreach fails when it's actually cold. Do the work first.
 
 ---
 
-## Email Outreach Variation
+## Email Version
 
-Same principles, slightly different format.
+Same principles, different format.
 
-### Cold Email Structure:
+**Subject lines that work:**
+- "[Company]'s marketing as you scale"
+- "Saw your [post/news] — quick thought"
+- "[Mutual connection] suggested I reach out"
+- "Question about [specific thing they're doing]"
+
+**Structure:**
 ```
-Subject: [Specific, curiosity-driven, no clickbait]
-
-[1-sentence hook tied to them]
+[1-line hook tied to them]
 
 [2-3 sentences: why you're reaching out + relevance]
 
@@ -157,94 +143,90 @@ Subject: [Specific, curiosity-driven, no clickbait]
 [Simple signature]
 ```
 
-**Subject Line Examples:**
-- "[Company]'s marketing as you scale"
-- "Saw your [post/news] — quick thought"
-- "[Mutual connection] suggested I reach out"
-- "Question about [specific thing they're doing]"
+**Example:**
 
-**Email Example:**
 ```
 Subject: [Company]'s GTM as you scale
 
 Hey [Name],
 
-Saw the [news/funding/launch] — congrats. [Specific observation that shows you understand their situation].
+Saw the [news] — congrats. [One specific observation].
 
 I work with growth-stage companies on [relevant thing]. Helped [similar company] with [specific result].
 
-Worth a quick chat to see if there's a fit, or happy to share what's working in the space regardless.
+Worth a quick chat to see if there's a fit?
 
 [Your name]
 ```
 
 ---
 
-## Sequence Calendar
+## The Full Sequence Calendar
 
 | Day | Action | Platform |
 |-----|--------|----------|
-| 0 | Research + Connection Request | LinkedIn |
-| 1-2 | Accept → First Message | LinkedIn |
-| 7 | Follow-Up #1 | LinkedIn |
-| 14 | Follow-Up #2 or Email | LinkedIn or Email |
-| 21 | Break-Up Message | Same as prior |
-
-Adjust timing based on response rates. Some audiences respond faster than others.
+| 0 | Research + Connection request | LinkedIn |
+| 1-2 | Accept → Wait 24h → First message | LinkedIn |
+| 7 | Follow-up #1 | LinkedIn |
+| 14 | Follow-up #2 or try email | LinkedIn/Email |
+| 21 | Break-up message | Same |
 
 ---
 
-## Anti-Patterns (What NOT to Do)
+## Personalization Tiers
 
-❌ "I'd love to pick your brain"
-❌ "Can I get 15 minutes of your time?"
-❌ Long paragraphs about yourself
-❌ Feature lists in first message
-❌ "Hope this finds you well"
-❌ "I'm reaching out because..."
-❌ Immediate pitch in connection request
-❌ Same message to everyone (obvious templates)
-❌ Following up every 2 days
-❌ Guilt-tripping silence
+Not everyone deserves 15 minutes of research. Here's how to think about it:
 
----
-
-## Personalization at Scale
-
-**Tier 1 (Top 10 prospects):** Full research, fully custom messages
-**Tier 2 (Next 20):** Template with personalized opening and specific detail
-**Tier 3 (Volume):** Template with minimal customization, higher volume
+**Tier 1 — Top 10 prospects:** Full research, fully custom messages
+**Tier 2 — Next 20:** Template with personalized opener
+**Tier 3 — Volume:** Template with minimal customization
 
 The math: 10 highly personalized messages often beat 100 spray-and-pray.
 
 ---
 
-## Output Format
+## What You Get Back
 
-Deliver a **Prospect Outreach Doc** with:
+A complete outreach doc for each prospect:
 
-```markdown
+```
 # Outreach: [Prospect Name]
 
 ## Research
-- Company: [name, stage, news]
-- Role: [their title, likely priorities]
-- Recent activity: [what they're posting about]
-- The angle: [why they'd care about you]
+- Company: [stage, news, situation]
+- Their likely pain: [what they're dealing with]
+- Connection point: [what you'll reference]
 
 ## Sequence
 ### Connection Request:
-[message]
+[Your message]
 
-### First DM (after accept):
-[message]
+### First DM:
+[Your message]
 
-### Follow-Up #1:
-[message]
+### Follow-up #1:
+[Your message]
 
-### Break-Up:
-[message]
+### Break-up:
+[Your message]
 ```
+
+---
+
+## What Kills Outreach
+
+❌ "I'd love to pick your brain"
+❌ "Can I get 15 minutes of your time?"
+❌ Long paragraphs about yourself
+❌ Immediate pitch in connection request
+❌ Same message to everyone
+❌ Following up every 2 days
+❌ "Hope this finds you well"
+
+---
+
+**Need help building an outreach system that actually works?**
+→ [Book a strategy call](https://brianrwagner.com/contact)
 
 ---
 

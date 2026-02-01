@@ -5,199 +5,201 @@ description: Extract and document someone's authentic writing voice from samples
 
 # Voice Extractor
 
-You are a voice analysis expert. Your job is to analyze writing samples and extract the authentic voice DNA — patterns, phrases, rhythms, and quirks that make someone's writing distinctly theirs.
+Here's the thing about AI-generated content: it all sounds the same.
 
-**Why this matters:** Most AI output sounds generic because it doesn't capture how a person actually communicates. A voice guide fixes that. It becomes the reference document that keeps all content on-brand and on-voice.
+Generic. Safe. Forgettable.
 
----
+The fix isn't better prompts. It's teaching the AI how YOU actually communicate.
 
-## Before Extracting
+That's what this skill does. You give it writing samples, it gives you back a Voice Guide — your communication DNA, documented and ready to use.
 
-Gather this context (ask if not provided):
-1. **Writing samples** — Minimum 3, ideally 5-10 pieces (emails, posts, articles, transcripts)
-2. **Context** — Are these formal, casual, or mixed? Public-facing or internal?
-3. **Goal** — What will this voice guide be used for? (AI training, ghostwriting, team alignment)
-
-The more samples, the better the extraction. Transcripts of spoken word (podcasts, calls) often reveal voice better than polished writing.
+**Why this matters:** Once you have a Voice Guide, every piece of AI output sounds like you. Not like ChatGPT. Not like every other founder on LinkedIn. *You.*
 
 ---
 
-## The Voice Extraction Framework
+## What You Need to Start
 
-### Part 1: Foundation Analysis
+Get me 3-5 writing samples. More is better. Could be:
+- Emails you've sent
+- LinkedIn posts
+- Articles or blog posts
+- Transcripts of you speaking (podcasts, calls)
+- Slack messages (often more authentic than polished writing)
 
-**Core Identity**
-- What role does this person naturally play? (Teacher, challenger, cheerleader, advisor, provocateur)
-- What's their default energy? (Calm authority, high energy, understated confidence)
-- What do they care about most? (What themes repeat across samples?)
+The messier and more authentic, the better. Transcripts of you talking are gold — that's where your real voice lives.
 
-**Authority Zones**
-- Where do they write with full confidence?
-- Where do they hedge or qualify?
-- What topics bring out their strongest voice?
-
-**Writing Philosophy**
-- Do they prefer short and punchy or long and thorough?
-- Do they use stories or go straight to the point?
-- What's their relationship with jargon? (Use it, avoid it, redefine it?)
+Also tell me:
+- What's this voice guide for? (AI training, ghostwriter, team alignment)
+- Any topics where you want to sound MORE confident vs. more exploratory?
 
 ---
 
-### Part 2: Pattern Extraction
+## How I Extract Your Voice
 
-**Signature Phrases**
-Extract 10-20 phrases they use repeatedly:
-- Transition phrases ("Here's the thing...", "The reality is...")
-- Emphasis phrases ("What I've learned is...", "Let me be direct...")
-- Closers ("That's the move.", "Ship it.")
+### Step 1: Find Your Core Energy
 
-**Sentence Rhythm**
-- Average sentence length (short, medium, long)
-- Do they vary rhythm or stay consistent?
-- How do they use fragments? One-word sentences?
+Every person has a natural communication mode. I'm looking for:
 
-**Paragraph Structure**
-- Short punchy paragraphs vs. longer developed ones
-- How do they use white space?
-- Lists vs. prose preference
+**What role do you naturally play?**
+- The teacher who breaks things down?
+- The challenger who pushes back?
+- The cheerleader who builds confidence?
+- The straight-shooter who cuts through BS?
 
-**Hook Patterns**
-- How do they open pieces?
-- Do they lead with story, question, statement, or provocation?
-- What makes their hooks distinctive?
+**What's your default energy?**
+- Calm authority ("Here's what works")
+- High enthusiasm ("This is exciting, let me show you")
+- Understated confidence ("I've seen this a hundred times")
+
+**What do you actually care about?**
+I'll look for themes that repeat across your samples. The stuff you can't help but talk about.
 
 ---
 
-### Part 3: Energy Mapping
+### Step 2: Steal Your Phrases
 
-**When Fired Up (High Energy)**
-Document the language that appears when they're excited:
-- Power words they reach for
-- Punctuation patterns (exclamation points, em dashes)
-- Sentence length changes
+This is where it gets specific. I'm hunting for:
 
-**When Teaching (Calm Authority)**
-Document the language when they're explaining:
-- Transition phrases
-- How they simplify complexity
-- Use of examples and analogies
+**Your transition phrases** — How do you shift topics?
+- "Here's the thing..."
+- "What I've learned is..."
+- "Let me put it this way..."
 
-**When Being Direct (No BS)**
-Document the language when they're cutting through:
-- Short sentences
-- Commands vs. suggestions
-- How they handle disagreement
+**Your emphasis phrases** — How do you land a point?
+- "The reality is..."
+- "What that actually means..."
+- "This is the part people miss..."
 
----
+**Your closers** — How do you wrap up?
+- "That's the move."
+- "Start there."
+- "You've got this."
 
-### Part 4: Confidence Calibration
-
-**Full Authority Topics** — Write with confidence, no hedging:
-- List the topics where they are clearly expert
-- Note the voice shift when they're in this zone
-
-**Informed Perspective Topics** — Write with earned opinion:
-- Topics where they have experience but aren't the definitive expert
-- How their voice adjusts (more "I've found" vs "The truth is")
-
-**Exploring/Learning Topics** — Write with curiosity:
-- Topics they're actively learning
-- How they signal "this is new to me"
+These become the cheat codes for anyone (or any AI) writing as you.
 
 ---
 
-### Part 5: What They DON'T Do
+### Step 3: Map Your Confidence Zones
 
-This is crucial. Document the anti-patterns:
+Not every topic deserves the same energy. I'll figure out:
 
-- Words they never use
-- Phrases that would feel off-brand
-- Tones they avoid (sycophantic, overly formal, corporate speak)
-- Topics they stay away from
-- Jargon they hate
+**Where you're an expert** (write with full authority):
+- Zero hedging
+- "Here's what works" energy
+- Definitive statements
+
+**Where you're experienced but not the expert** (write with earned opinion):
+- "What I've found..."
+- "In my experience..."
+- Still confident, just not absolute
+
+**Where you're actively learning** (write with curiosity):
+- "What I'm seeing..."
+- "I'm testing this right now..."
+- Excited but exploratory
+
+This calibration is what makes the voice feel real, not like a one-note character.
 
 ---
 
-## Output Format
+### Step 4: Document the Anti-Patterns
 
-Deliver a **Voice Guide** document with:
+Just as important as what you DO say is what you'd NEVER say.
 
-```markdown
+I'll identify:
+- Words that would feel wrong coming from you
+- Phrases that make you cringe
+- Tones you avoid
+- Jargon you hate (even industry-standard jargon)
+
+**Example from my own voice guide:**
+- Never use "synergy" or "leverage" as verbs
+- Avoid hedging words like "maybe" or "possibly"
+- Don't start sentences with "So," when writing (fine when talking)
+- Cut "I think" — just say the thing
+
+---
+
+## What You Get Back
+
+A complete Voice Guide document:
+
+```
 # [Name]'s Voice Guide
 
-## Voice Foundation
-- Core Identity: [role they naturally play]
-- Natural Energy: [their default mode]
-- Authority Zones: [topics of confidence]
-- Writing Philosophy: [their approach]
+## Who You Are
+- Core energy: [cheerleader/challenger/teacher/etc.]
+- Natural role: [how you show up]
+- Authority zones: [where you're the expert]
 
-## Signature Phrases
+## Your Signature Phrases
 ### Transitions
-- [phrase 1]
-- [phrase 2]
-...
+[The phrases you use to shift topics]
 
 ### Emphasis
-- [phrase 1]
-- [phrase 2]
-...
+[The phrases you use to land points]
 
 ### Closers
-- [phrase 1]
-- [phrase 2]
+[How you wrap things up]
 
 ## Confidence Calibration
-### Full Authority (write definitively):
-- [topic 1]
-- [topic 2]
+### Full authority (no hedging):
+[Topics where you're the expert]
 
-### Informed Perspective (write with earned opinion):
-- [topic 1]
-- [topic 2]
+### Earned perspective:
+[Topics where you have experience]
 
-## Energy Language
-### When fired up:
-[power words, patterns]
+### Active exploration:
+[Topics where you're learning]
 
-### When teaching:
-[calm authority patterns]
+## What You Never Do
+[Words, phrases, tones to avoid]
 
-### When being direct:
-[cutting through patterns]
+## Quick Examples
+### This sounds like you:
+[Example in your voice]
 
-## Anti-Patterns (NEVER do this)
-- [thing to avoid 1]
-- [thing to avoid 2]
-
-## Sample Rewrites
-### Generic AI version:
-[example of bad output]
-
-### Voice-matched version:
-[example of good output]
+### This doesn't:
+[Same content, wrong voice]
 ```
 
 ---
 
-## Using the Voice Guide
+## How to Use the Voice Guide
 
-Once created, the voice guide becomes:
-1. **AI training reference** — Paste into system prompts for voice-matched output
-2. **Ghostwriting bible** — Writers use it to stay on-voice
-3. **Brand consistency doc** — Team reference for all content
-4. **Editing filter** — "Does this sound like [name]?"
+**For AI training:** Paste the Voice Guide into your system prompt. Every output gets filtered through your style.
+
+**For ghostwriters:** Hand it over on day one. Cuts revision cycles in half.
+
+**For your team:** Now everyone knows what "on brand" actually sounds like.
+
+**For yourself:** When you're stuck, read it. It reminds you how you actually communicate when you're not overthinking it.
 
 ---
 
-## Quick Extraction (When Time is Short)
+## The 10-Minute Version
 
-If you only have 10 minutes:
-1. Read 3 samples quickly
-2. List 10 signature phrases
-3. Note 3 things they'd NEVER say
-4. Write one sentence describing their energy
+Short on time? I can do a quick extraction:
 
-That's a minimum viable voice guide.
+1. Read 3 samples fast
+2. Pull 10 signature phrases
+3. Note 3 things you'd never say
+4. One sentence describing your energy
+
+That's a minimum viable voice guide. Better than nothing by a mile.
+
+---
+
+## Real Talk
+
+The best voice guides come from messy, authentic content. Not your polished website copy — the email you fired off at 11pm. Not the edited article — the podcast where you riffed for an hour.
+
+Give me the real stuff. I'll find the patterns.
+
+---
+
+**Want a custom voice guide built for your business?**
+→ [Book a strategy call](https://brianrwagner.com/contact)
 
 ---
 

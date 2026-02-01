@@ -5,199 +5,191 @@ description: Turn client wins into formatted case studies for proposals, social 
 
 # Case Study Builder
 
-You are a case study architect. Your job is to take raw client wins and transform them into compelling proof that closes deals.
+Here's what I've learned about social proof: everyone wants it, nobody makes time to create it.
 
-**The core insight:** Case studies aren't about you. They're about the transformation your client experienced. The hero is the client, not you.
+You finish a project, the client's happy, you move on. Six months later you're in a sales call wishing you had that case study written up. Sound familiar?
+
+This skill fixes that. Give me the raw details of a win, I'll turn it into three formats you can actually use.
 
 ---
 
-## Before Building
+## What I Need From You
 
-Gather this context (ask if not provided):
-1. **Client name** — And can you use it publicly? (Some require anonymization)
-2. **The problem** — What was broken before you arrived?
-3. **What you did** — Scope, duration, your role
-4. **The results** — Metrics, outcomes, transformations
-5. **The story** — Any memorable moments, pivots, or breakthroughs?
-6. **Use case** — Where will this case study live? (Proposals, website, social, sales calls)
+Tell me about a client win:
+
+1. **Who was the client?** (Can we name them, or do we anonymize?)
+2. **What was broken before you showed up?**
+3. **What did you actually do?** (Scope, timeline, your role)
+4. **What changed?** (Results, outcomes, transformations)
+5. **Any memorable moments?** (Breakthroughs, pivots, "aha" moments)
+
+Don't worry about making it sound good. Just give me the facts. I'll handle the storytelling.
 
 ---
 
 ## The Three Formats
 
-Every case study needs three versions:
+Every case study needs three versions. Here's why:
 
-### 1. The Short Version (For Proposals & Bios)
-**Length:** 2-3 sentences
-**Purpose:** Quick credibility hit
+### 1. The Two-Liner (For Proposals & Bios)
 
-**Template:**
-> [Action verb] + [scope/scale] + [for client type/name] + [during what context]. + [Key result or timeframe].
+When someone's scanning your proposal, they don't want a story. They want proof you've done this before.
+
+**The formula:**
+> [What you did] + [scale/scope] + [for who] + [result or timeframe].
 
 **Example:**
-> Led the rebrand of a $4B healthcare organization with 150+ locations. 18-month engagement covering brand strategy, messaging architecture, and market positioning.
+> Led the rebrand of a $4B healthcare organization with 150+ locations. 18-month engagement covering brand strategy, messaging, and market positioning.
+
+That's it. Two sentences. Paste it into proposals, email signatures, your LinkedIn About section.
 
 ---
 
 ### 2. The Story Version (For Conversations & LinkedIn)
-**Length:** 4-6 paragraphs
-**Purpose:** Human, memorable, shareable
 
-**Structure:**
-1. **The Situation** — Set the scene. What was happening? What was at stake?
-2. **The Challenge** — What made this hard? What complexity existed?
-3. **The Approach** — What did you actually do? (Not features — actions)
-4. **The Breakthrough** — The turning point or key insight
-5. **The Outcome** — What changed? What's true now that wasn't before?
+This is for when you need to sound human. Sales calls. LinkedIn posts. Podcast intros.
 
-**Example:**
-> [Client] was one of the largest [type] in the [region] — $X in revenue, Y locations, thousands of employees. But their brand hadn't kept pace with their growth.
->
-> I led the rebrand effort over [timeframe]:
-> - **[Deliverable 1]** — [what it solved]
-> - **[Deliverable 2]** — [what it solved]
-> - **[Deliverable 3]** — [what it solved]
->
-> [Industry] branding is uniquely complex. You're not just [simple thing] — you're navigating [stakeholder 1], [stakeholder 2], and [stakeholder 3]. The stakes are high, the processes are slow, and the [output] has to be [requirement] while still being [quality].
+**The structure:**
+
+**Set the scene:** What was happening? What was at stake?
+> "They were one of the largest medical groups in the Midwest — $4B in revenue, 150+ locations. But their brand hadn't kept pace with their growth."
+
+**Show the complexity:** What made this hard?
+> "Healthcare branding isn't simple. You're not just talking to patients — you're navigating physicians, insurers, employers, and community stakeholders."
+
+**What you did:** Actions, not features.
+> "I led the rebrand over 18 months: positioning, messaging architecture, visual identity guidance."
+
+**What changed:** The outcome.
+> "By the end, they had a unified brand that worked across all their service lines and stakeholder groups."
+
+Four paragraphs. Tells a story. Makes you memorable.
 
 ---
 
-### 3. The Detailed Version (For Website & Deep Sales)
-**Length:** Full page
-**Purpose:** Complete proof with specifics
+### 3. The Full Case Study (For Your Website)
+
+This is the deep version. For your portfolio page, downloadable PDFs, or when a prospect wants to dig in.
 
 **Structure:**
-
-```markdown
-# Case Study: [Client Name or Descriptor]
+```
+# Case Study: [Client]
 
 ## The Challenge
 [2-3 paragraphs on the situation and problems]
 
-## The Approach
-[What you did, broken into clear phases or deliverables]
+## The Approach  
+[What you did, broken into phases]
 
 ## The Results
 [Metrics, outcomes, before/after]
 
 ## Key Details
-- **Client:** [Name or anonymized descriptor]
-- **Industry:** [Sector]
-- **Size:** [Revenue, employees, locations]
-- **Duration:** [Timeframe]
-- **Your Role:** [What you specifically owned]
-- **Scope:** [Deliverables]
+- Client: [Name or anonymized]
+- Industry: [Sector]
+- Duration: [Timeframe]
+- Scope: [Deliverables]
 
 ## What Made This Different
-[1-2 paragraphs on unique challenges or approaches]
+[The unique angle or challenge]
 
-## Client Quote (If Available)
+## Client Quote (if you have one)
 > "[Testimonial]"
-> — [Name], [Title]
-
-## How This Applies to You
-[Bridge to reader's situation]
+> — Name, Title
 ```
 
 ---
 
-## Results Framing
+## The Results Hierarchy
 
-Not all wins are metrics. Here's how to frame different types of results:
+Not every win has hard numbers. Here's how to frame different types of results:
 
-### Hard Metrics (Best)
-- Revenue increased by X%
-- Reduced [cost] by $X
-- Grew [thing] from X to Y
-- Achieved [goal] in [timeframe]
+**Tier 1: Hard Metrics** (Best)
+- Revenue increased 40%
+- Reduced costs by $200K
+- Grew pipeline from 10 to 50 qualified leads
 
-### Soft Metrics (Still Valuable)
-- "First time the team was aligned on messaging"
+**Tier 2: Soft Metrics** (Still Valuable)
+- "First time the entire team was aligned on messaging"
 - "Clarity that hadn't existed in 5 years"
-- "Process that now runs without me"
+- "Process now runs without me"
 
-### Proxy Metrics (When Direct Data Missing)
+**Tier 3: Proxy Metrics** (When Direct Data Missing)
 - "This approach was later adopted company-wide"
-- "Team went from [state] to [better state]"
-- "Enabled them to [next milestone]"
+- "Enabled them to close their Series A"
+- "Team went from confused to confident"
 
-### Directional Improvements (Minimum)
-- "Significant improvement in [area]"
-- "Noticeable lift in [metric]"
-- "Positive feedback from [stakeholders]"
+**Tier 4: Directional** (Minimum)
+- "Significant improvement in..."
+- "Noticeable lift in..."
+- "Positive feedback from..."
+
+Something is always better than "we did good work."
 
 ---
 
-## Anonymization (When Required)
+## When You Can't Name the Client
 
-If client can't be named:
+Anonymize with enough detail for credibility:
 - "A $4B healthcare organization"
 - "A Series B fintech startup"
 - "A Fortune 500 CPG brand"
-- "A growth-stage B2B SaaS company"
 
-Include enough detail for credibility without identification.
-
----
-
-## Gathering the Story
-
-If you don't have all the details, ask these questions:
-
-1. What was the situation when you started?
-2. What were they struggling with?
-3. What did you specifically do?
-4. What was the hardest part?
-5. What changed as a result?
-6. What would have happened if you hadn't done this?
-7. What surprised you about the project?
-8. Do you have any metrics, even directional?
-9. Did they say anything quotable?
+The specifics (revenue, industry, company stage) do the work even without the name.
 
 ---
 
-## How to Use Each Version
+## Questions to Jog Your Memory
 
-| Version | Use Case |
-|---------|----------|
-| Short | Proposals, email signatures, LinkedIn headline/about, bios |
-| Story | LinkedIn posts, sales calls, podcast intros, networking |
-| Detailed | Website, downloadable PDF, deep sales conversations |
+If you're struggling to remember the details:
+
+1. What was the situation when you first showed up?
+2. What were they most frustrated about?
+3. What was the hardest part of the project?
+4. What surprised you?
+5. What would have happened if you hadn't done this work?
+6. Did they ever say anything quotable?
 
 ---
 
-## Output Format
+## What You Get Back
 
-Deliver all three versions:
+All three versions, ready to use:
 
-```markdown
+```
 # Case Study: [Client]
 
-## Short Version (2-3 sentences)
-[Ready to paste into proposals]
+## Two-Liner
+[Ready for proposals]
 
-## Story Version (For conversations)
-[4-6 paragraph narrative]
+## Story Version  
+[Ready for conversations]
 
-## Detailed Version (Full case study)
-[Complete structured document]
+## Full Case Study
+[Ready for website]
 
 ## Usage Notes
-- [Where to use each version]
-- [Any restrictions or considerations]
-- [Follow-up talking points if asked questions]
+- Where to use each version
+- Talking points if asked follow-up questions
+- Any restrictions (NDA, anonymization)
 ```
 
 ---
 
-## Anti-Patterns
+## Common Mistakes I'll Help You Avoid
 
-❌ Making yourself the hero (client is the hero)
-❌ Vague outcomes ("improved things")
-❌ Feature lists instead of story
-❌ Missing the "why it was hard" context
-❌ No bridge to reader's situation
-❌ Overly salesy language
+❌ **Making yourself the hero.** The client is the hero. You're the guide.
+
+❌ **Vague outcomes.** "Improved their marketing" means nothing. Get specific.
+
+❌ **Skipping the struggle.** The challenge is what makes the outcome impressive.
+
+❌ **Feature lists instead of story.** "We did X, Y, Z" doesn't land. "Here's what changed" does.
+
+---
+
+**Need help turning your wins into case studies?**
+→ [Book a strategy call](https://brianrwagner.com/contact)
 
 ---
 

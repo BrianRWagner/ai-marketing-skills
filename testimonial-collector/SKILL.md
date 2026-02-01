@@ -5,263 +5,220 @@ description: Systematically gather and format client testimonials. Use when some
 
 # Testimonial Collector
 
-You are a social proof strategist. Your job is to help gather, format, and deploy testimonials that build credibility and close deals.
+Here's the reality: your happiest clients will vouch for you. They want to help.
 
-**The core truth:** Happy clients will vouch for you — but only if you ask. Most people don't ask. This skill fixes that.
+But they're busy. And you feel weird asking. So you don't.
 
----
+Meanwhile, you're in sales calls with no social proof, trying to convince people you're good at what you do.
 
-## The Testimonial System
-
-### When to Ask
-- Right after a win or positive outcome
-- When they express gratitude unprompted  
-- At project completion
-- After a milestone achievement
-- When renewing or extending
-
-**The moment of peak happiness = the moment to ask.**
+This skill fixes the asking part. I'll give you exactly what to say, when to say it, and how to format what you get back.
 
 ---
 
-## How to Ask (Templates)
+## When to Ask
 
-### The Direct Ask (Email)
-```
+Timing is everything. These are your windows:
+
+✅ **Right after a win.** They just saw results? Ask now.
+✅ **When they thank you unprompted.** That's your cue.
+✅ **At project completion.** Natural checkpoint.
+✅ **When they renew or extend.** They're voting with their wallet.
+
+The moment of peak happiness is the moment to ask. Don't wait.
+
+---
+
+## How to Ask (Without Being Weird)
+
+### The Direct Ask
+
 Subject: Quick favor (30 seconds)
 
+```
 Hey [Name],
 
-Loved working on [project] with you — especially seeing [specific result].
+Loved working on [project] with you — especially seeing [specific result you noticed].
 
-Would you be open to sharing a quick testimonial I could use on my site/LinkedIn?
+Would you be open to sharing a quick testimonial I could use on my site?
 
-No pressure at all. If yes, I can either:
-A) Send you 3 quick questions to answer
-B) Write a draft based on our work and you approve/edit
+No pressure. If yes, I can either:
+A) Send you 3 questions to answer
+B) Write a draft for you to approve/edit
 
-Whatever's easier for you.
+Whatever's easier.
 
-Thanks either way,
-[Your name]
+Thanks either way.
 ```
+
+Short. Gives them options. Doesn't make it a big deal.
+
+---
 
 ### The Question Route
+
+If they say "sure, what do you need?" — send this:
+
 ```
-If you have 2 minutes, here are 3 questions:
+Awesome. Just 3 quick questions:
 
 1. What was the situation before we worked together?
-2. What changed or improved as a result?
+2. What changed or improved?
 3. Would you recommend this to others? Why?
 
-Just reply with a few sentences for each — I'll format it.
+A few sentences each is perfect. I'll format it.
 ```
+
+That's it. Don't overthink it.
+
+---
 
 ### The Draft Route
-```
-Based on our work together, I drafted this:
 
-"[Draft testimonial in their voice]"
+Some people hate writing. Make it easy:
 
-Feel free to edit, tweak, or rewrite entirely. Just let me know what feels right to you.
 ```
+I drafted something based on our work together:
+
+"[Your draft in their voice — keep it short and specific]"
+
+Feel free to edit, tweak, or rewrite entirely. Whatever feels right to you.
+```
+
+Most people will approve with minor edits. You did the hard part.
 
 ---
 
-## The 5-Question Deep Dive
+## The Deep Dive (For Case Studies)
 
-For longer testimonials or case studies:
+When you need more than a quote:
 
-1. **Before:** What was the situation before we started?
-2. **Hesitation:** What almost stopped you from moving forward?
-3. **Experience:** What was it like working together?
-4. **Results:** What changed or improved?
-5. **Recommendation:** What would you tell someone considering this?
+1. What was the situation before we started?
+2. What almost stopped you from moving forward?
+3. What was it like working together?
+4. What changed as a result?
+5. What would you tell someone considering this?
+
+These five questions give you enough for a full case study.
 
 ---
 
-## Formatting Testimonials
+## How to Format What You Get
 
-### The Short Format (Social/Website)
+### Short Format (Social/Website)
+
 ```
-"[One powerful sentence about the result or experience]"
+"[One punchy sentence about the result]"
 — [Name], [Title] at [Company]
 ```
 
 **Example:**
 > "Brian helped us go from zero LinkedIn presence to 3 inbound leads per week in 6 weeks."
-> — Sarah Chen, CEO at TechStartup
+> — Sarah Chen, CEO at TechCo
 
-### The Medium Format (Website/Proposals)
+This goes on your homepage, your proposals, your LinkedIn featured section.
+
+---
+
+### Medium Format (Proposals/About Page)
+
 ```
-"[2-3 sentences covering the problem, experience, and result]"
+"[2-3 sentences: problem, experience, result]"
 — [Name], [Title] at [Company]
 ```
 
 **Example:**
-> "We knew we needed to build our founder brand but had no idea where to start. Brian built us a complete content system in 6 weeks — now we're generating inbound leads consistently for the first time. Couldn't recommend more highly."
-> — Sarah Chen, CEO at TechStartup
+> "We knew we needed to build our founder brand but had no idea where to start. Brian built us a complete content system in 6 weeks — now we're generating inbound leads for the first time. Can't recommend him enough."
+> — Sarah Chen, CEO at TechCo
 
-### The Long Format (Case Studies/Sales Pages)
-```
-## What [Name] at [Company] Said
-
-**The Challenge:**
-"[Their words about the before state]"
-
-**The Experience:**
-"[Their words about working with you]"
-
-**The Results:**
-"[Their words about outcomes]"
-
-— [Name], [Title] at [Company]
-```
+This goes in proposals, on your services page, in case studies.
 
 ---
 
-## Editing Testimonials (Ethically)
+### Long Format (Case Study Pages)
 
-You CAN:
+```
+**What [Name] at [Company] Said:**
+
+"[Full quote with context — the whole story]"
+```
+
+This goes on dedicated case study pages or in downloadable PDFs.
+
+---
+
+## Editing Rules (Stay Ethical)
+
+**You can:**
 - Fix grammar and typos
 - Tighten for clarity
 - Reorder sentences
-- Remove filler words
-- Format for readability
+- Cut filler
 
-You CANNOT:
+**You can't:**
 - Add claims they didn't make
 - Exaggerate results
 - Change the meaning
-- Use without permission
 
-**Always send edits back for approval.**
+**Always send edits back for approval.** Takes 30 seconds and keeps you honest.
 
 ---
 
-## Testimonial Quality Checklist
+## The Quality Checklist
 
-Strong testimonials include:
+Strong testimonials have:
 
-- [ ] **Specific result** (numbers, outcomes, changes)
-- [ ] **Before/after contrast** (what changed)
-- [ ] **Emotional element** (how they felt)
-- [ ] **Credibility markers** (name, title, company)
-- [ ] **Relevant to your ideal client** (similar situation)
+- [ ] **Specific result** — Numbers or concrete outcomes
+- [ ] **Before/after** — What changed
+- [ ] **Credibility markers** — Name, title, company
+- [ ] **Relevance** — Similar to your ideal client
 
 **Weak:** "Great to work with!"
 **Strong:** "Went from 0 to 3 inbound leads per week in 6 weeks."
+
+Specificity is what makes people believe it.
 
 ---
 
 ## Where to Use Testimonials
 
-| Location | Best Format | Purpose |
-|----------|-------------|---------|
-| Website homepage | Short (1 sentence) | Trust at first glance |
-| Sales page | Medium + Long | Overcome objections |
-| Proposals | Medium | Relevant social proof |
-| LinkedIn profile | Short | Credibility |
-| LinkedIn posts | Story format | Engagement + proof |
-| Email signatures | Short | Passive credibility |
-| Case studies | Long + detailed | Deep proof |
+| Location | Format | Purpose |
+|----------|--------|---------|
+| Homepage | Short | Trust at first glance |
+| Sales pages | Medium | Overcome objections |
+| Proposals | Medium | Relevant proof |
+| LinkedIn | Short | Credibility |
+| Case studies | Long | Deep proof |
 
 ---
 
-## Building a Testimonial Library
+## Following Up (If They Don't Respond)
 
-Create a simple doc/spreadsheet:
+Wait 5-7 days. Send one follow-up:
 
 ```
+Hey [Name], just bumping this — no pressure at all. If timing's bad, totally get it. Let me know either way!
+```
+
+If they don't respond to that, let it go. Some people just won't, and that's fine.
+
+---
+
+## Build a Library
+
+Create a simple doc or spreadsheet:
+
 | Client | Date | Quote | Format | Permission | Used Where |
 |--------|------|-------|--------|------------|------------|
-| [Name] | [Date] | [Quote] | Short/Med/Long | ✅/❌ | Website, Proposal |
-```
 
-Review quarterly:
-- Who haven't you asked yet?
-- Which testimonials are stale?
-- What gaps exist (industries, use cases)?
+Review it quarterly:
+- Who haven't you asked?
+- Which testimonials are getting stale?
+- Any gaps in industries or use cases?
 
 ---
 
-## Getting Video Testimonials
-
-**Ask simply:**
-```
-Would you be open to a 2-minute video testimonial? 
-
-I'd send you 3 questions to answer. You record on your phone (selfie mode works great), send me the file, and I handle everything else.
-
-No prep needed. Casual is perfect.
-```
-
-**The 3 questions for video:**
-1. What problem were you trying to solve?
-2. What was the result of working together?
-3. What would you say to someone considering this?
-
-**Tips:**
-- Keep it under 90 seconds
-- Casual > polished
-- Real > scripted
-
----
-
-## Permission & Compliance
-
-Always get explicit permission:
-- "Can I use this on my website?"
-- "Are you okay with your name and company being shown?"
-- "Any edits before I publish?"
-
-Save the permission (email or message = fine).
-
----
-
-## The Follow-Up System
-
-If they don't respond:
-- Wait 5-7 days
-- Send one gentle follow-up
-- If still no response, let it go
-
-**Follow-up template:**
-```
-Hey [Name], just bumping this up — no pressure at all. If now's not a good time, totally understand. Let me know either way!
-```
-
----
-
-## Output Format
-
-When collecting testimonials, deliver:
-
-```markdown
-## Testimonial: [Client Name]
-
-**Status:** Collected / Pending / Requested
-
-**Raw Quote:**
-[Exactly what they said]
-
-**Formatted Versions:**
-
-### Short (1 sentence):
-"[Quote]"
-— [Name], [Title] at [Company]
-
-### Medium (2-3 sentences):
-"[Quote]"
-— [Name], [Title] at [Company]
-
-### Long (full context):
-[Complete formatted testimonial]
-
-**Permission:** ✅ Approved for [specific uses]
-
-**Best Used For:** [Website / Proposals / LinkedIn / etc.]
-```
+**Need help building your social proof library?**
+→ [Book a strategy call](https://brianrwagner.com/contact)
 
 ---
 

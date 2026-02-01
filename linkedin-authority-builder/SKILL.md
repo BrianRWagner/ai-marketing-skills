@@ -5,264 +5,220 @@ description: Build a LinkedIn content system for thought leadership. Use when so
 
 # LinkedIn Authority Builder
 
-You are a LinkedIn strategist for founders and experts. Your job is to build a content system that establishes authority and generates inbound opportunities.
+Here's what most people get wrong about LinkedIn: they're trying to go viral.
 
-**The core insight:** LinkedIn isn't about going viral. It's about being remembered by the right 500 people when they need what you do.
+Viral doesn't pay your bills. Being remembered by the right 500 people when they need what you do — that pays your bills.
 
----
-
-## Before Building
-
-Gather this context (ask if not provided):
-1. **What's your expertise?** — What do you know deeply?
-2. **Who's your audience?** — Who should remember you?
-3. **What do you want?** — Leads, job offers, partnerships, speaking?
-4. **What's your unfair advantage?** — Experience, perspective, or access others don't have?
-5. **Current state** — Posting now? How often? What's working/not?
+This skill builds a content system that makes you impossible to forget for your target audience. Not through hacks. Through consistency and clear positioning.
 
 ---
 
-## The LinkedIn Authority Framework
+## Before We Build Anything
 
-### Part 1: Positioning Foundation
+I need to understand your situation:
+
+1. **What's your expertise?** What do you know cold?
+2. **Who needs to remember you?** Specific titles, company stages, industries.
+3. **What do you want from LinkedIn?** Leads? Job offers? Speaking gigs? Partnerships?
+4. **What's your unfair advantage?** Experience, perspective, or access that others don't have.
+5. **What are you doing now?** Posting? How often? What's working?
+
+The strategy depends on the answers.
+
+---
+
+## Step 1: Nail Your Positioning
 
 Before content, get clear on your angle.
 
-**The Positioning Statement:**
-```
-I help [specific audience] with [specific outcome] through [unique approach].
-```
+**The one-liner:**
+> I help [specific audience] with [specific outcome] through [unique approach].
 
 **Example:**
 > I help growth-stage founders build marketing systems that scale — combining 15 years of strategy with AI-powered execution.
 
-**The Headline Formula:**
+If you can't say it in one sentence, your content will be unfocused.
+
+**Your headline formula:**
 ```
-[Role/Title] | [Unique Value Prop or Tagline]
+[Role] | [What you do for who OR tagline]
 ```
 
 **Examples:**
 - "AI Marketing Architect | I build your AI marketing system. Then I run it."
-- "Founder @ [Company] | Helping [audience] achieve [outcome]"
-- "Former [Impressive Role] → Now helping [audience] with [thing]"
+- "Former Nike CMO → Now helping founders avoid the branding mistakes I made"
+
+The headline is prime real estate. Don't waste it on your job title.
 
 ---
 
-### Part 2: Content Pillars (The Topics)
+## Step 2: Pick Your Content Pillars
 
-Pick 3-5 topics you'll own. These become your pillars.
+These are the 3-5 topics you'll own. Everything you post should fit into one of these buckets.
 
-**Pillar Selection Criteria:**
+**Good pillars:**
 - You have genuine expertise (not just interest)
-- Your target audience cares about this
-- You can produce consistent content on it
-- It's connected to what you sell/do
+- Your target audience cares about it
+- You can produce content on it consistently
+- It connects to what you sell
 
-**Example Pillars:**
-1. AI-powered marketing systems
-2. Founder marketing lessons
-3. Brand positioning
-4. Behind-the-scenes building
-5. Career/industry observations
+**Example pillars:**
+1. AI-powered marketing (what I sell)
+2. Founder marketing lessons (what I've learned)
+3. Brand positioning (my expertise)
+4. Behind-the-scenes building (makes me human)
+5. Hot takes on marketing trends (keeps it interesting)
 
-**Pillar Ratio:**
-- 70% core expertise (what you sell)
-- 20% adjacent insights (what makes you interesting)
-- 10% personal/human (what makes you relatable)
+**The ratio:**
+- 70% core expertise (builds authority)
+- 20% adjacent insights (makes you interesting)
+- 10% personal (makes you relatable)
 
 ---
 
-### Part 3: Content Formats (The How)
+## Step 3: Know Your Formats
 
-Different formats for different goals.
+Different formats for different goals:
 
-| Format | Best For | Engagement Level |
-|--------|----------|------------------|
-| **Story** | Connection, relatability | High |
-| **Framework/List** | Authority, saves | High |
-| **Hot Take** | Reach, controversy | Variable |
-| **Case Study** | Proof, credibility | Medium |
-| **Behind-the-Scenes** | Trust, personality | Medium |
-| **Question** | Engagement, research | Medium |
-| **Celebration** | Social proof | Low-Medium |
+| Format | Good For | Engagement |
+|--------|----------|------------|
+| Story | Connection | High |
+| Framework/List | Authority | High |
+| Hot take | Reach | Variable |
+| Case study | Proof | Medium |
+| Behind-the-scenes | Trust | Medium |
 
-**The Winning Mix:**
-- 2-3 frameworks/lists per week (authority)
+**The winning mix:**
+- 2-3 frameworks per week (authority)
 - 1-2 stories per week (connection)
-- 1 case study or proof per week (credibility)
+- 1 case study or proof point per week (credibility)
 
 ---
 
-### Part 4: Post Structures That Work
+## Step 4: Master the Hook
 
-#### The Story Post
+The first line determines if anyone reads the rest. Make it count.
+
+**Hooks that work:**
+
+> "Most founders get [topic] wrong. Here's why:"
+
+> "I spent 15 years learning this the hard way:"
+
+> "[Counterintuitive statement that makes them stop scrolling]"
+
+> "The best [X] I know all do this one thing:"
+
+**Hook principles:**
+- Specific beats vague
+- Numbers add credibility
+- Tension creates curiosity
+- Punchline first, context second
+
+---
+
+## Step 5: The Post Structures
+
+### The Story Post
 ```
 [Hook — the moment or realization]
 
-[Setup — context]
+[Setup — quick context]
 
-[Tension — what went wrong or was hard]
+[Tension — what was hard or went wrong]
 
-[Turn — the insight or breakthrough]
+[Turn — the insight]
 
 [Lesson — the takeaway]
 
-[CTA — question or nudge]
+[Question — drives engagement]
 ```
 
-#### The Framework Post
+### The Framework Post
 ```
-[Hook — the problem or bold claim]
+[Hook — bold claim or problem]
 
-[Why this matters]
+[Why this matters — 1-2 sentences]
 
 [The X-step framework:]
 1. [Step + brief explanation]
 2. [Step + brief explanation]
 3. [Step + brief explanation]
 
-[Summary or key insight]
+[Key insight or summary]
 
-[CTA]
+[CTA or question]
 ```
 
-#### The Hot Take
+### The Hot Take
 ```
 [Controversial statement]
 
-[Evidence or reasoning]
+[Your reasoning — 2-3 sentences]
 
-[The nuance most people miss]
+[The nuance people miss]
 
 [What to do instead]
 
 [Question to drive comments]
 ```
 
-#### The Case Study
-```
-[Result hook — "Here's how [X] achieved [Y]"]
-
-[The situation — what they were facing]
-
-[The approach — what was done]
-
-[The outcome — specific results]
-
-[The lesson — what you can apply]
-```
-
 ---
 
-### Part 5: Hooks That Stop the Scroll
+## Step 6: Set Your Rhythm
 
-The first line determines if anyone reads the rest.
-
-**Hook Formulas:**
-- "Most [people] get [topic] wrong. Here's why:"
-- "I spent [X years] learning this the hard way:"
-- "[Counterintuitive statement]"
-- "[Specific number] [specific outcome]. Here's how:"
-- "Stop [common mistake]. Start [better alternative]."
-- "The best [X] I know all do this one thing:"
-- "[Success story] didn't happen by accident. Here's the playbook:"
-
-**Hook Principles:**
-- Specific beats vague
-- Numbers add credibility
-- Tension creates curiosity
-- Personal experience adds authority
-
----
-
-### Part 6: Posting Rhythm
-
-**Minimum Viable Presence:**
+**Minimum viable presence:**
 - 3x per week
-- Consistent days/times
-- At least 2 posts that demonstrate expertise
+- Same days/times
+- At least 2 posts showing expertise
 
-**Growth Mode:**
+**If you want growth:**
 - 5x per week (weekdays)
+- Active commenting (20-30 min/day)
 - 1 long-form article per month
-- Active commenting (30 min/day)
 
-**Ideal Times (Test Your Audience):**
-- Tuesday-Thursday morning (7-9am)
+**Best times (test for yourself):**
+- Tuesday-Thursday mornings (7-9am)
 - Tuesday-Thursday lunch (12-1pm)
 - Avoid weekends for B2B
 
-**Batching Strategy:**
-- Write 5-10 posts in one session
-- Schedule using native LinkedIn or tool
-- Engage live when posts go out
+---
+
+## Step 7: Engage Like a Human
+
+Posting is half the game. Engaging is the other half.
+
+**Comment strategy:**
+- 5-10 thoughtful comments per day on posts from your target audience
+- Add value, don't just say "Great post!"
+- Share a relevant experience or insight
+- Ask a follow-up question
+
+**Comments that work:**
+- "This is exactly what I saw at [company]. We also found that..."
+- "Interesting take. What about the case where [alternative scenario]?"
+- "Adding to this: [your framework or step they didn't mention]"
 
 ---
 
-### Part 7: Engagement Strategy
+## What You Get Back
 
-Posting is half the game. Engagement is the other half.
+A complete LinkedIn strategy doc:
 
-**Comment Strategy:**
-- Comment on 5-10 posts from target audience/peers daily
-- Add value, don't just agree ("Great post!")
-- Ask thoughtful questions
-- Share relevant experience
+```
+## Your Positioning
+- Headline: [optimized]
+- One-liner: [what you do for who]
 
-**Comment Types That Work:**
-- Add a framework or step they missed
-- Share a contradicting experience (respectfully)
-- Ask a follow-up question that shows you read deeply
-- Offer a specific resource or example
+## Content Pillars
+1. [Pillar + what you'll cover]
+2. [Pillar + what you'll cover]
+3. [Pillar + what you'll cover]
 
-**Profile Visitors → Connections:**
-- Check who viewed your profile weekly
-- Connect with relevant viewers
-- Personalized note > blank request
-
----
-
-### Part 8: Measuring What Matters
-
-**Vanity Metrics (Track but don't obsess):**
-- Impressions
-- Likes
-- Comments
-
-**Meaningful Metrics:**
-- Profile views (interest signal)
-- Connection requests from ideal audience
-- DMs from potential leads
-- Inbound opportunities (calls, emails, intros)
-
-**Monthly Review:**
-- Which posts drove the most profile views?
-- Which posts generated DMs?
-- What topics resonated most?
-- What format worked best?
-
----
-
-## Output Format
-
-Deliver a **LinkedIn Authority Plan** with:
-
-```markdown
-# LinkedIn Authority Plan for [Name]
-
-## Positioning
-- **Headline:** [optimized headline]
-- **Positioning Statement:** [I help X with Y through Z]
-
-## Content Pillars (3-5)
-1. [Pillar 1] — [what you'll cover]
-2. [Pillar 2] — [what you'll cover]
-3. [Pillar 3] — [what you'll cover]
-
-## Weekly Content Mix
-- [Day 1]: [Format + Pillar]
-- [Day 2]: [Format + Pillar]
-- [Day 3]: [Format + Pillar]
+## Weekly Schedule
+- [Day]: [Format + Pillar]
+- [Day]: [Format + Pillar]
+- [Day]: [Format + Pillar]
 
 ## First 5 Post Ideas
 1. [Hook + brief description]
@@ -272,25 +228,26 @@ Deliver a **LinkedIn Authority Plan** with:
 5. [Hook + brief description]
 
 ## Engagement Plan
-- [Who to engage with]
-- [How much time daily]
-- [What types of comments]
-
-## 30-Day Goals
-- [Specific, measurable targets]
+- Who to engage with
+- How much time daily
+- What kinds of comments
 ```
 
 ---
 
-## Anti-Patterns
+## What Not to Do
 
 ❌ Posting only about yourself and your company
-❌ Inspirational quotes without substance
+❌ Inspirational quotes with no substance
 ❌ Engagement bait ("Comment YES if you agree!")
-❌ Inconsistent posting (1x then nothing for weeks)
+❌ Posting once then disappearing for 3 weeks
 ❌ Only broadcasting, never engaging
-❌ Copying others' posts without your perspective
-❌ Long posts with no formatting (wall of text)
+❌ Walls of text with no formatting
+
+---
+
+**Need help building your LinkedIn presence?**
+→ [Book a strategy call](https://brianrwagner.com/contact)
 
 ---
 
