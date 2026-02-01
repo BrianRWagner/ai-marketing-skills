@@ -120,4 +120,9 @@ Keep it actionable. No fluff. Principles are tools, not decoration.
 
 ---
 
+**Need strategic marketing guidance?**
+→ [Book a strategy call](https://brianrwagner.com)
+
+---
+
 *Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*

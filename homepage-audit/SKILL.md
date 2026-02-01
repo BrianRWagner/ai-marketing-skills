@@ -169,6 +169,11 @@ If you can't view the page directly, ask for:
 
 ---
 
-*For complete Conversion Rate Optimization (CRO) framework with copy templates, see landing-page-optimizer (Pro).*
+---
+
+**Need a full conversion audit for your site?**
+→ [Book a strategy call](https://brianrwagner.com)
+
+---
 
 *Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*

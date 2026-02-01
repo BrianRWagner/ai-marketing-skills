@@ -146,4 +146,9 @@ Rate each dimension 1-5:
 
 ---
 
+**Want a full AI discoverability audit for your brand?**
+→ [Book a strategy call](https://brianrwagner.com)
+
+---
+
 *Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*

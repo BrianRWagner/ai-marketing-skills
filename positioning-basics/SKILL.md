@@ -168,4 +168,9 @@ If any check fails, that's your next revision.
 
 ---
 
+**Need help nailing your positioning?**
+→ [Book a strategy call](https://brianrwagner.com)
+
+---
+
 *Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com*
