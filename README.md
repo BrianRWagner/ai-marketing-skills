@@ -48,19 +48,33 @@ Generate content ideas based on your positioning and ICP. Multiple frameworks fo
 
 ## Installation
 
-### Claude Code
+### Option 1: Clone the whole repo
 ```bash
-cp -r <skill-folder> ~/.claude/skills/
+git clone https://github.com/BrianRWagner/ai-marketing-skills.git
 ```
 
-### OpenClaw
+Then copy whichever skills you want to your agent's skills folder.
+
+### Option 2: Copy individual skills
+
+**Claude Code:**
 ```bash
-cp -r <skill-folder> ~/.openclaw/skills/
+# Clone first, then copy what you need
+git clone https://github.com/BrianRWagner/ai-marketing-skills.git
+cp -r ai-marketing-skills/ai-discoverability-audit ~/.claude/skills/
+cp -r ai-marketing-skills/positioning-basics ~/.claude/skills/
 ```
 
-### GitHub Copilot / VS Code
+**OpenClaw:**
 ```bash
-cp -r <skill-folder> .github/skills/
+cp -r ai-marketing-skills/ai-discoverability-audit ~/.openclaw/skills/
+cp -r ai-marketing-skills/positioning-basics ~/.openclaw/skills/
+```
+
+**GitHub Copilot / VS Code:**
+```bash
+cp -r ai-marketing-skills/ai-discoverability-audit .github/skills/
+cp -r ai-marketing-skills/positioning-basics .github/skills/
 ```
 
 ### Or install via ClawdHub (OpenClaw)
