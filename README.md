@@ -46,6 +46,15 @@ Generate content ideas based on your positioning and ICP. Multiple frameworks fo
 
 ---
 
+### 📚 Marketing Principles
+Apply timeless marketing and business principles from the masters (Drucker, Ogilvy, Godin, Buffett, Munger, Bezos, Jobs).
+
+**Use when:** "First principles thinking", "Should I do X?", "What would work here?", strategic decisions
+
+→ [`marketing-principles/SKILL.md`](./marketing-principles/SKILL.md)
+
+---
+
 ## Installation
 
 ### Option 1: Clone the whole repo
