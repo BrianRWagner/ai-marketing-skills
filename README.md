@@ -5,7 +5,7 @@
 Not guides. Not courses. *Skills* — packaged expertise your AI agent loads and follows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-5-green.svg)](#available-skills)
+[![Skills](https://img.shields.io/badge/Skills-10-green.svg)](#available-skills)
 [![Compatible](https://img.shields.io/badge/Works%20With-Claude%20Code%20%7C%20OpenClaw%20%7C%20Copilot-purple.svg)](#compatibility)
 
 ---
@@ -24,16 +24,9 @@ Think of it like giving your AI a playbook written by an expert. Instead of prom
 
 ## Available Skills
 
-### 🔍 AI Discoverability Audit
-Audit how a brand appears in AI-powered search and recommendation systems (ChatGPT, Perplexity, Claude, Gemini).
+### Strategy & Positioning
 
-**Use when:** "How do I show up in ChatGPT?", "AI search visibility", "AEO audit"
-
-→ [ai-discoverability-audit/SKILL.md](./ai-discoverability-audit/SKILL.md)
-
----
-
-### 🎯 Positioning Basics
+#### 🎯 Positioning Basics
 Core positioning framework for founders and marketers. Clarify who you're for, what you do, and why you're different.
 
 **Use when:** "Help me with positioning", "Who is this for?", "What makes us different?"
@@ -42,16 +35,36 @@ Core positioning framework for founders and marketers. Clarify who you're for, w
 
 ---
 
-### 📄 Homepage Audit
-Quick conversion audit for any homepage or landing page. Get actionable feedback in minutes.
+#### 🔍 AI Discoverability Audit
+Audit how a brand appears in AI-powered search and recommendation systems (ChatGPT, Perplexity, Claude, Gemini).
 
-**Use when:** "Review my homepage", "Why isn't my page converting?", "Audit my landing page"
+**Use when:** "How do I show up in ChatGPT?", "AI search visibility", "AEO audit"
 
-→ [homepage-audit/SKILL.md](./homepage-audit/SKILL.md)
+→ [ai-discoverability-audit/SKILL.md](./ai-discoverability-audit/SKILL.md)
 
 ---
 
-### 💡 Content Idea Generator
+#### 📚 Marketing Principles
+Apply timeless marketing and business principles from the masters (Drucker, Ogilvy, Godin, Buffett, Munger, Bezos, Jobs).
+
+**Use when:** "First principles thinking", "Should I do X?", "What would work here?", strategic decisions
+
+→ [marketing-principles/SKILL.md](./marketing-principles/SKILL.md)
+
+---
+
+### Content & Authority
+
+#### 💼 LinkedIn Authority Builder
+Build a LinkedIn content system for thought leadership. Positioning, content pillars, formats, and posting rhythm.
+
+**Use when:** "LinkedIn strategy", "Build my presence", "Content system", "Thought leadership"
+
+→ [linkedin-authority-builder/SKILL.md](./linkedin-authority-builder/SKILL.md)
+
+---
+
+#### 💡 Content Idea Generator
 Generate content ideas based on your positioning and ICP. Multiple frameworks for different content types.
 
 **Use when:** "What should I post?", "Content ideas", "Blog topics", "LinkedIn content"
@@ -60,12 +73,52 @@ Generate content ideas based on your positioning and ICP. Multiple frameworks fo
 
 ---
 
-### 📚 Marketing Principles
-Apply timeless marketing and business principles from the masters (Drucker, Ogilvy, Godin, Buffett, Munger, Bezos, Jobs).
+#### 🎙️ Voice Extractor
+Extract and document someone's authentic writing voice from samples. Create voice guides for AI training or ghostwriting.
 
-**Use when:** "First principles thinking", "Should I do X?", "What would work here?", strategic decisions
+**Use when:** "Capture my voice", "Voice guide", "Write like me", "Train AI on my style"
 
-→ [marketing-principles/SKILL.md](./marketing-principles/SKILL.md)
+→ [voice-extractor/SKILL.md](./voice-extractor/SKILL.md)
+
+---
+
+### Conversion & Sales
+
+#### 📄 Homepage Audit
+Quick conversion audit for any homepage or landing page. Get actionable feedback in minutes.
+
+**Use when:** "Review my homepage", "Why isn't my page converting?", "Audit my landing page"
+
+→ [homepage-audit/SKILL.md](./homepage-audit/SKILL.md)
+
+---
+
+#### 📧 Cold Outreach Sequence
+Build personalized cold outreach sequences for LinkedIn and email. Research, connection requests, follow-ups, and conversion.
+
+**Use when:** "Cold outreach", "LinkedIn messages", "Prospecting sequence", "Sales emails"
+
+→ [cold-outreach-sequence/SKILL.md](./cold-outreach-sequence/SKILL.md)
+
+---
+
+#### 📊 Case Study Builder
+Turn client wins into formatted case studies for proposals, social proof, and sales conversations.
+
+**Use when:** "Write a case study", "Document results", "Client success story", "Build social proof"
+
+→ [case-study-builder/SKILL.md](./case-study-builder/SKILL.md)
+
+---
+
+### Founder Tools
+
+#### 🧠 Founder Decision Framework
+Help founders break through decision paralysis and make clear choices. Mental models + practical frameworks.
+
+**Use when:** "I'm stuck on a decision", "Should I do X or Y?", "Analysis paralysis", "Need clarity"
+
+→ [founder-decision-framework/SKILL.md](./founder-decision-framework/SKILL.md)
 
 ---
 
@@ -97,7 +150,7 @@ git clone https://github.com/BrianRWagner/ai-marketing-skills.git
 
 # Copy what you need (example: Claude Code)
 cp -r ai-marketing-skills/positioning-basics ~/.claude/skills/
-cp -r ai-marketing-skills/ai-discoverability-audit ~/.claude/skills/
+cp -r ai-marketing-skills/voice-extractor ~/.claude/skills/
 ```
 
 ### Step 3: Use It
@@ -107,8 +160,9 @@ Once installed, just ask your AI to help with that topic. The skill activates au
 **Examples:**
 - "Help me with positioning for my SaaS product"
 - "Audit my homepage: [url]"
-- "How does my brand show up in ChatGPT?"
-- "Generate content ideas for my target customer"
+- "Extract my voice from these writing samples"
+- "Build me a LinkedIn content strategy"
+- "I'm stuck between two options, help me decide"
 
 The AI will follow the skill's framework instead of generic responses.
 
