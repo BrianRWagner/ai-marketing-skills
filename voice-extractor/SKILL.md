@@ -199,7 +199,7 @@ Give me the real stuff. I'll find the patterns.
 ---
 
 **Want a custom voice guide built for your business?**
-→ [Book a strategy call](https://brianrwagner.com/contact)
+→ [Book a strategy call](https://brianrwagner.com)
 
 ---
 

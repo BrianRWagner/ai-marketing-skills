@@ -218,7 +218,7 @@ Review it quarterly:
 ---
 
 **Need help building your social proof library?**
-→ [Book a strategy call](https://brianrwagner.com/contact)
+→ [Book a strategy call](https://brianrwagner.com)
 
 ---
 

@@ -226,7 +226,7 @@ A complete outreach doc for each prospect:
 ---
 
 **Need help building an outreach system that actually works?**
-→ [Book a strategy call](https://brianrwagner.com/contact)
+→ [Book a strategy call](https://brianrwagner.com)
 
 ---
 

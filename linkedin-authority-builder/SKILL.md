@@ -247,7 +247,7 @@ A complete LinkedIn strategy doc:
 ---
 
 **Need help building your LinkedIn presence?**
-→ [Book a strategy call](https://brianrwagner.com/contact)
+→ [Book a strategy call](https://brianrwagner.com)
 
 ---
 

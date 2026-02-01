@@ -189,7 +189,7 @@ All three versions, ready to use:
 ---
 
 **Need help turning your wins into case studies?**
-→ [Book a strategy call](https://brianrwagner.com/contact)
+→ [Book a strategy call](https://brianrwagner.com)
 
 ---
 
