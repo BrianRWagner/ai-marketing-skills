@@ -1,0 +1,22 @@
+{
+  "name": "social-card-gen",
+  "version": "1.0.0",
+  "description": "Offline social post generator for Twitter, LinkedIn, and Reddit",
+  "main": "generate.js",
+  "bin": {
+    "social-card-gen": "generate.js"
+  },
+  "scripts": {
+    "generate:examples": "node generate.js --file examples/input-example.md --outdir examples"
+  },
+  "keywords": [
+    "social",
+    "content",
+    "twitter",
+    "linkedin",
+    "reddit",
+    "generator"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}

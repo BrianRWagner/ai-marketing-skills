@@ -1,0 +1,7 @@
+Product update: onboarding improvements
+
+Product update: onboarding improvements This week we shipped a guided onboarding checklist for new users. In testing, setup time dropped from 45 minutes to 28 minutes, and week-1 activation improved by 19%. The biggest win came from replacing long setup docs with short in-app prompts at the exact moment users needed each step.
+
+#onboarding #setup #week #users
+
+What are you seeing in your team?

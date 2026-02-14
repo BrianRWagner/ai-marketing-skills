@@ -5,7 +5,7 @@
 Not guides. Not courses. *Skills* — packaged expertise your AI agent loads and follows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-10-green.svg)](#available-skills)
+[![Skills](https://img.shields.io/badge/Skills-17-green.svg)](#available-skills)
 [![Compatible](https://img.shields.io/badge/Works%20With-Claude%20Code%20%7C%20OpenClaw%20%7C%20Copilot-purple.svg)](#compatibility)
 
 ---
@@ -82,6 +82,53 @@ Extract and document someone's authentic writing voice from samples. Create voic
 
 ---
 
+#### 🧹 De-AI-ify
+Remove AI-generated jargon and restore human voice to text. Built from analyzing 1,000+ AI vs human content pieces.
+
+**Use when:** "This sounds like AI", "Make it human", "Remove AI voice", "De-robotify this"
+
+→ [de-ai-ify/SKILL.md](./de-ai-ify/SKILL.md)
+
+---
+
+#### 📱 Social Card Generator
+Generate platform-specific social post variants (Twitter, LinkedIn, Reddit) from one source input. No API dependency.
+
+**Use when:** "Turn this into social posts", "Repurpose for Twitter/LinkedIn", "Create social variants"
+
+→ [social-card-gen/SKILL.md](./social-card-gen/SKILL.md)
+
+---
+
+### Research & Intelligence
+
+#### 🔬 Last 30 Days Research
+Research any topic across Reddit, X, and web from the last 30 days. Current trends, real community sentiment, and actionable insights in 7 minutes vs 2 hours manual research.
+
+**Use when:** "What are people saying about X?", "Current trends in Y", "Market research", "Community sentiment"
+
+→ [last30days/SKILL.md](./last30days/SKILL.md)
+
+---
+
+#### 🔎 Reddit Insights
+Search and analyze Reddit content using semantic AI search. Find user pain points, discover niche markets, validate business ideas with real user feedback.
+
+**Use when:** "Search Reddit for...", "What does Reddit think about?", "Find pain points", "Validate this idea"
+
+→ [reddit-insights/SKILL.md](./reddit-insights/SKILL.md)
+
+---
+
+#### 🎬 YouTube Summarizer
+Fetch YouTube video transcripts, generate structured summaries with key insights and metadata. Supports full transcript delivery.
+
+**Use when:** "Summarize this YouTube video", "Get transcript from...", "Key takeaways from this video"
+
+→ [youtube-summarizer/SKILL.md](./youtube-summarizer/SKILL.md)
+
+---
+
 ### Conversion & Sales
 
 #### 📄 Homepage Audit
@@ -117,6 +164,26 @@ Systematically gather and format client testimonials for social proof.
 **Use when:** "Get testimonials", "Social proof", "Client quotes", "Build credibility"
 
 → [testimonial-collector/SKILL.md](./testimonial-collector/SKILL.md)
+
+---
+
+### Productivity & Operations
+
+#### 📅 Plan My Day
+Generate an energy-optimized, time-blocked daily plan based on circadian rhythm research and GTD principles.
+
+**Use when:** "Plan my day", "Time block today", "What should I work on?", "Daily schedule"
+
+→ [plan-my-day/SKILL.md](./plan-my-day/SKILL.md)
+
+---
+
+#### 📧 Newsletter Creation & Curation
+Industry-adaptive B2B newsletter creation with stage, role, and geography-aware workflows.
+
+**Use when:** "Create a newsletter", "Curate content for newsletter", "B2B newsletter", "Weekly digest"
+
+→ [newsletter-creation-curation/SKILL.md](./newsletter-creation-curation/SKILL.md)
 
 ---
 
@@ -160,7 +227,9 @@ Once installed, just ask your AI to help with that topic. The skill activates au
 - "Audit my homepage: [url]"
 - "Extract my voice from these writing samples"
 - "Build me a LinkedIn content strategy"
-- "I'm stuck between two options, help me decide"
+- "What are people saying about [topic] on Reddit?"
+- "Summarize this YouTube video"
+- "This sounds too AI — make it human"
 
 The AI will follow the skill's framework instead of generic responses.
 
