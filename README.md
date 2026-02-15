@@ -251,17 +251,9 @@ The AI will follow the skill's framework instead of generic responses.
 
 ## Pro Skills (Coming Soon)
 
-Deeper frameworks with templates, implementation playbooks, and advanced techniques:
+Premium skills with deeper frameworks, implementation playbooks, and advanced techniques are in the works.
 
-| Skill | Description | Price |
-|-------|-------------|-------|
-| `ai-discoverability-complete` | Full audit + implementation guide | $49 |
-| `positioning-deep-dive` | Complete positioning system | $49 |
-| `linkedin-thought-leadership` | Ghostwriting + voice matching | $39 |
-| `landing-page-optimizer` | Full CRO framework | $39 |
-| `email-sequence-builder` | Drip campaigns + templates | $29 |
-
-*Join the waitlist: [brianrwagner.com/skills](https://brianrwagner.com/skills)*
+👉 Check [brianrwagner.com/skills](https://brianrwagner.com/skills) for updates.
 
 ---
 
