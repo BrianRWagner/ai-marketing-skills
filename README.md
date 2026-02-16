@@ -249,11 +249,27 @@ The AI will follow the skill's framework instead of generic responses.
 
 ---
 
-## Pro Skills (Coming Soon)
+## 🔥 Pro Skills — Premium Frameworks
 
-Premium skills with deeper frameworks, implementation playbooks, and advanced techniques are in the works.
+Deeper frameworks. More sophisticated outputs. Built from 15+ years of real marketing work.
 
-👉 Check [brianrwagner.com/skills](https://brianrwagner.com/skills) for updates.
+These are the skills I use daily to run client campaigns and build my own business. Available on [Claw Mart](https://www.shopclawmart.com).
+
+| Skill | What It Does | Price | Link |
+|-------|-------------|-------|------|
+| **🧬 Content Atomizer** | Turn 1 piece of content into 13+ platform-optimized posts | $49 | [Buy →](https://www.shopclawmart.com/listings/content-atomizer-7cf6136b) |
+| **🎯 Positioning Angles** | Find the angle that makes your product impossible to ignore | $59 | [Buy →](https://www.shopclawmart.com/listings/positioning-angles-49167aea) |
+| **🧲 Lead Magnet Creator** | Build lead magnets that actually convert — concept to complete asset | $69 | [Buy →](https://www.shopclawmart.com/listings/lead-magnet-creator-2d6b5285) |
+| **✍️ Direct Response Copy** | 2,200 lines of conversion frameworks — headlines to full sales pages | $79 | [Buy →](https://www.shopclawmart.com/listings/direct-response-copy-b6221844) |
+| **📧 Email Sequence Builder** | Complete email sequences — welcome, nurture, launch, re-engagement | $89 | [Buy →](https://www.shopclawmart.com/listings/email-sequence-builder-03d8d1ea) |
+
+### Free vs Pro — What's the Difference?
+
+**Free skills** give you solid frameworks to get started. They handle the 80% use case well.
+
+**Pro skills** are what I actually use with clients. They're 3-10x deeper, handle edge cases, preserve your voice across outputs, and chain together into complete marketing systems. The Content Atomizer alone replaces 2-3 hours of manual repurposing per piece.
+
+👉 Browse all pro skills: [shopclawmart.com](https://www.shopclawmart.com)
 
 ---
 
