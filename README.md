@@ -249,9 +249,18 @@ The AI will follow the skill's framework instead of generic responses.
 
 ---
 
-## Premium Listings on Claw Mart
+## 🔥 Pro Skills on Claw Mart
 
-More tools, personas, and systems available on [Claw Mart](https://www.shopclawmart.com):
+Deeper frameworks built from 15+ years of real marketing work. Available on [Claw Mart](https://www.shopclawmart.com):
+
+### Pro Skills ($9)
+
+| Skill | What It Does | Link |
+|-------|-------------|------|
+| **🎙️ Voice-Matched Content System** | Extract your voice from writing samples → generate content that sounds like you, not AI | [Buy →](https://www.shopclawmart.com/listings/voice-matched-content-system-095c6e91) |
+| **🔍 Brand Positioning Audit** | Audit any brand's positioning in 15 min — scored diagnosis + messaging rewrites | [Buy →](https://www.shopclawmart.com/listings/brand-positioning-audit-a22b40b6) |
+
+### Other Listings
 
 | Listing | Type | Price | Link |
 |---------|------|-------|------|
