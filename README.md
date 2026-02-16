@@ -257,11 +257,17 @@ These are the skills I use daily to run client campaigns and build my own busine
 
 | Skill | What It Does | Price | Link |
 |-------|-------------|-------|------|
-| **🧬 Content Atomizer** | Turn 1 piece of content into 13+ platform-optimized posts | $49 | [Buy →](https://www.shopclawmart.com/listings/content-atomizer-7cf6136b) |
-| **🎯 Positioning Angles** | Find the angle that makes your product impossible to ignore | $59 | [Buy →](https://www.shopclawmart.com/listings/positioning-angles-49167aea) |
-| **🧲 Lead Magnet Creator** | Build lead magnets that actually convert — concept to complete asset | $69 | [Buy →](https://www.shopclawmart.com/listings/lead-magnet-creator-2d6b5285) |
-| **✍️ Direct Response Copy** | 2,200 lines of conversion frameworks — headlines to full sales pages | $79 | [Buy →](https://www.shopclawmart.com/listings/direct-response-copy-b6221844) |
-| **📧 Email Sequence Builder** | Complete email sequences — welcome, nurture, launch, re-engagement | $89 | [Buy →](https://www.shopclawmart.com/listings/email-sequence-builder-03d8d1ea) |
+| **🧬 Content Atomizer** | Turn 1 piece of content into 13+ platform-optimized posts | $9 | [Buy →](https://www.shopclawmart.com/listings/content-atomizer-7cf6136b) |
+| **🎯 Positioning Angles** | Find the angle that makes your product impossible to ignore | $9 | [Buy →](https://www.shopclawmart.com/listings/positioning-angles-49167aea) |
+| **✍️ Direct Response Copy** | 2,200 lines of conversion frameworks — headlines to full sales pages | $9 | [Buy →](https://www.shopclawmart.com/listings/direct-response-copy-b6221844) |
+
+Also available on Claw Mart:
+
+| Listing | Type | Price | Link |
+|---------|------|-------|------|
+| **☀️ Morning Brief System** | Skill | $14 | [Buy →](https://www.shopclawmart.com/listings/morning-brief-system-5c9005d8) |
+| **🤵 The Chief of Staff** | Persona | $19 | [Buy →](https://www.shopclawmart.com/listings/the-chief-of-staff-ee036345) |
+| **🏗️ Multi-Agent Team Blueprint** | Persona | $19 | [Buy →](https://www.shopclawmart.com/listings/multi-agent-team-blueprint-4da2ac9b) |
 
 ### Free vs Pro — What's the Difference?
 
@@ -269,7 +275,7 @@ These are the skills I use daily to run client campaigns and build my own busine
 
 **Pro skills** are what I actually use with clients. They're 3-10x deeper, handle edge cases, preserve your voice across outputs, and chain together into complete marketing systems. The Content Atomizer alone replaces 2-3 hours of manual repurposing per piece.
 
-👉 Browse all pro skills: [shopclawmart.com](https://www.shopclawmart.com)
+👉 Browse all on Claw Mart: [shopclawmart.com](https://www.shopclawmart.com)
 
 ---
 
