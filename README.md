@@ -249,24 +249,24 @@ The AI will follow the skill's framework instead of generic responses.
 
 ---
 
-## 🔥 Pro Skills on Claw Mart
+## 🔥 Premium on Claw Mart
 
-Deeper frameworks built from 15+ years of real marketing work. Available on [Claw Mart](https://www.shopclawmart.com):
+Deeper frameworks and ready-to-deploy AI systems. Available on [Claw Mart](https://www.shopclawmart.com):
 
-### Pro Skills ($9)
+### Skills
 
-| Skill | What It Does | Link |
-|-------|-------------|------|
-| **🎙️ Voice-Matched Content System** | Extract your voice from writing samples → generate content that sounds like you, not AI | [Buy →](https://www.shopclawmart.com/listings/voice-matched-content-system-095c6e91) |
-| **🔍 Brand Positioning Audit** | Audit any brand's positioning in 15 min — scored diagnosis + messaging rewrites | [Buy →](https://www.shopclawmart.com/listings/brand-positioning-audit-a22b40b6) |
+| Skill | What It Does | Price | Link |
+|-------|-------------|-------|------|
+| **🎙️ Voice-Matched Content System** | Extract your voice from writing samples → generate content that sounds like you, not AI | $9 | [Buy →](https://www.shopclawmart.com/listings/voice-matched-content-system-095c6e91) |
+| **🔍 Brand Positioning Audit** | Audit any brand's positioning in 15 min — scored diagnosis + messaging rewrites | $9 | [Buy →](https://www.shopclawmart.com/listings/brand-positioning-audit-a22b40b6) |
+| **☀️ Morning Brief System** | Wake up to weather, email digest, priorities, and overnight work summary | $14 | [Buy →](https://www.shopclawmart.com/listings/morning-brief-system-5c9005d8) |
 
-### Other Listings
+### Personas
 
-| Listing | Type | Price | Link |
-|---------|------|-------|------|
-| **☀️ Morning Brief System** | Skill | $14 | [Buy →](https://www.shopclawmart.com/listings/morning-brief-system-5c9005d8) |
-| **🤵 The Chief of Staff** | Persona | $19 | [Buy →](https://www.shopclawmart.com/listings/the-chief-of-staff-ee036345) |
-| **🏗️ Multi-Agent Team Blueprint** | Persona | $19 | [Buy →](https://www.shopclawmart.com/listings/multi-agent-team-blueprint-4da2ac9b) |
+| Persona | What It Does | Price | Link |
+|---------|-------------|-------|------|
+| **🤵 The Chief of Staff** | A complete AI Chief of Staff — proactive, opinionated, runs your day | $19 | [Buy →](https://www.shopclawmart.com/listings/the-chief-of-staff-ee036345) |
+| **🏗️ Multi-Agent Team Blueprint** | Blueprint for running a 10-agent AI team with roles, routing, and meetings | $19 | [Buy →](https://www.shopclawmart.com/listings/multi-agent-team-blueprint-4da2ac9b) |
 
 👉 Browse all on Claw Mart: [shopclawmart.com](https://www.shopclawmart.com)
 
