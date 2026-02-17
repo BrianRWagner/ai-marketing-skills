@@ -260,7 +260,7 @@ Deeper frameworks and ready-to-deploy AI systems. Available on [Claw Mart](https
 | **🎙️ Voice-Matched Content System** | Extract your voice from writing samples → generate content that sounds like you, not AI | $9 | [Buy →](https://www.shopclawmart.com/listings/voice-matched-content-system-095c6e91) |
 | **🔍 Brand Positioning Audit** | Audit any brand's positioning in 15 min — scored diagnosis + messaging rewrites | $9 | [Buy →](https://www.shopclawmart.com/listings/brand-positioning-audit-a22b40b6) |
 | **☀️ Morning Brief System** | Wake up to weather, email digest, priorities, and overnight work summary | $14 | [Buy →](https://www.shopclawmart.com/listings/morning-brief-system-5c9005d8) |
-| **🚀 AI Employee Onboarding** | Guided wizard that sets up a personalized AI employee in 15 minutes | $9-14 | [View →](./ai-employee-onboarding/SKILL.md) |
+| **🚀 AI Employee Onboarding Wizard** | Go from zero to a fully configured AI employee in 15 minutes — generates 7 production-ready config files | $9 | [Buy →](https://www.shopclawmart.com/listings/ai-employee-onboarding-wizard-2ed777d1) |
 
 ### Personas
 
