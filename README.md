@@ -78,7 +78,7 @@ Extract and document someone's authentic writing voice from samples. Create voic
 
 **Use when:** "Capture my voice", "Voice guide", "Write like me", "Train AI on my style"
 
-→ [voice-extractor/SKILL.md](./voice-extractor/SKILL.md)
+→ [voice-extractor/SKILL.md](./voice-extractor/SKILL.md) | [$9 premium version on Claw Mart →](https://www.shopclawmart.com/listings/voice-extractor-f1578cb8)
 
 ---
 
