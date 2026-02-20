@@ -285,6 +285,18 @@ Created by **Brian Wagner** — AI Marketing Architect
 
 ---
 
+## Pro Skills
+
+Premium skills are available on [Claw Mart](https://www.clawhub.ai) for deeper, production-quality frameworks.
+
+| Skill | What It Does | Price |
+|-------|-------------|-------|
+| [Brand Voice Extractor](./pro/brand-voice-extractor/) | Extract or build a reusable voice profile so your AI always sounds like you | [$9 on Claw Mart →](https://www.clawhub.ai/skills/brw-brand-voice-extractor) |
+
+Free skills stay free. Pro skills go deeper.
+
+---
+
 ## Contributing
 
 Found an issue? Have an improvement?
