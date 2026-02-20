@@ -257,6 +257,8 @@ Deeper frameworks and ready-to-deploy AI systems. Available on [Claw Mart](https
 
 | Skill | What It Does | Price | Link |
 |-------|-------------|-------|------|
+| **🎙️ Voice Extractor** | Extract your authentic writing voice and teach your AI to sound like you — not like ChatGPT | $9 | [Buy →](https://www.shopclawmart.com/listings/voice-extractor-f1578cb8) |
+| **🧠 Founder Intelligence** | A decade-plus of books, podcasts, and founder interviews distilled into 9 strategic lenses. Decision-quality answers — not motivational advice. | $15 | [Buy →](https://www.shopclawmart.com/listings/founder-intelligence-2002a45e) |
 | **🎙️ Voice-Matched Content System** | Extract your voice from writing samples → generate content that sounds like you, not AI | $9 | [Buy →](https://www.shopclawmart.com/listings/voice-matched-content-system-095c6e91) |
 | **🔍 Brand Positioning Audit** | Audit any brand's positioning in 15 min — scored diagnosis + messaging rewrites | $9 | [Buy →](https://www.shopclawmart.com/listings/brand-positioning-audit-a22b40b6) |
 | **☀️ Morning Brief System** | Wake up to weather, email digest, priorities, and overnight work summary | $14 | [Buy →](https://www.shopclawmart.com/listings/morning-brief-system-5c9005d8) |
@@ -282,19 +284,6 @@ Created by **Brian Wagner** — AI Marketing Architect
 - 🌐 [brianrwagner.com](https://brianrwagner.com)
 - 🐦 [@BrianRWagner](https://twitter.com/BrianRWagner)
 - 💼 [LinkedIn](https://linkedin.com/in/brianrwagner)
-
----
-
-## Pro Skills
-
-Premium skills are available on [Claw Mart](https://www.clawhub.ai) for deeper, production-quality frameworks.
-
-| Skill | What It Does | Price |
-|-------|-------------|-------|
-| [Brand Voice Extractor](./pro/brand-voice-extractor/) | Extract or build a reusable voice profile so your AI always sounds like you | [$9 on Claw Mart →](https://www.clawhub.ai/skills/brw-brand-voice-extractor) |
-| [Founder Intelligence](./pro/founder-intelligence/) | A decade-plus of books, podcasts, and founder interviews distilled into 9 strategic lenses. Decision-quality answers with real tradeoffs — not motivational advice. | [$15 on Claw Mart →](https://www.shopclawmart.com/listings/founder-intelligence-2002a45e) |
-
-Free skills stay free. Pro skills go deeper.
 
 ---
 
