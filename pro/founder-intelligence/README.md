@@ -50,7 +50,7 @@ Not motivational advice. Not generic "it depends." Decision-quality output with 
 
 ## Get It
 
-**[$15 on Claw Mart →](https://www.clawhub.ai/skills/brw-founder-intelligence)**
+**[$15 on Claw Mart →](https://www.shopclawmart.com/listings/founder-intelligence-2002a45e)**
 
 ---
 

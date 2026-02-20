@@ -504,4 +504,5 @@ Use these to validate routing, intake flow, and output format.
 **Description:** This skill is the product of a decade-plus of obsessive note-taking — hundreds of books, thousands of hours of podcasts, and years of working directly with founders and operators. It distills what actually works from Bezos, Buffett, Porter, Helmer, Marks, Ferriss, and others into a structured decision framework your AI can run against any business challenge. Business intake so the analysis fits your actual situation. Structured lens-by-lens reasoning. A real recommendation with named tradeoffs and risks. An iteration loop to go deeper, steelman the opposite, or chain into the next decision. Not motivational advice. Not generic "it depends." The kind of thinking that usually costs $500/hour — packaged as a skill.
 **Tags:** strategy, founder, decision-making, business, frameworks
 **Price:** $15
-**Category:** Business Strategy
+**Category:** Executive
+**Claw Mart:** https://www.shopclawmart.com/listings/founder-intelligence-2002a45e

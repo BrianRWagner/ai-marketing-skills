@@ -7,7 +7,7 @@ Premium skills available on [Claw Mart](https://www.clawhub.ai). These go deeper
 | Skill | What It Does | Price | Claw Mart |
 |-------|-------------|-------|-----------|
 | [Brand Voice Extractor](./brand-voice-extractor/) | Extract or build a reusable voice profile so your AI always sounds like you | $9 | [Get it →](https://www.clawhub.ai/skills/brw-brand-voice-extractor) |
-| [Founder Intelligence](./founder-intelligence/) | A decade-plus of books, podcasts, and founder interviews distilled into 9 strategic lenses. Decision-quality answers with real tradeoffs — not motivational advice. | $15 | Coming soon |
+| [Founder Intelligence](./founder-intelligence/) | A decade-plus of books, podcasts, and founder interviews distilled into 9 strategic lenses. Decision-quality answers with real tradeoffs — not motivational advice. | $15 | [Get it →](https://www.shopclawmart.com/listings/founder-intelligence-2002a45e) |
 
 ---
 
