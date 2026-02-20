@@ -129,6 +129,15 @@ Fetch YouTube video transcripts, generate structured summaries with key insights
 
 ---
 
+#### 🔗 LinkedIn Profile Optimizer
+Audit and rewrite your LinkedIn profile to attract the right people. Scores each section, rewrites headline and about copy, and includes an AI visibility checklist for ChatGPT/Perplexity/Claude search.
+
+**Use when:** "Optimize my LinkedIn", "Rewrite my about section", "LinkedIn profile help", "AI search visibility"
+
+→ [linkedin-profile-optimizer/SKILL.md](./linkedin-profile-optimizer/SKILL.md)
+
+---
+
 ### Conversion & Sales
 
 #### 📄 Homepage Audit
@@ -263,6 +272,7 @@ Deeper frameworks and ready-to-deploy AI systems. Available on [Claw Mart](https
 | **🔍 Brand Positioning Audit** | Audit any brand's positioning in 15 min — scored diagnosis + messaging rewrites | $9 | [Buy →](https://www.shopclawmart.com/listings/brand-positioning-audit-a22b40b6) |
 | **☀️ Morning Brief System** | Wake up to weather, email digest, priorities, and overnight work summary | $14 | [Buy →](https://www.shopclawmart.com/listings/morning-brief-system-5c9005d8) |
 | **🚀 AI Employee Onboarding Wizard** | Go from zero to a fully configured AI employee in 15 minutes — generates 7 production-ready config files | $9 | [Buy →](https://www.shopclawmart.com/listings/ai-employee-onboarding-wizard-2ed777d1) |
+| **🔍 Competitor Intel Brief** | Structured competitive teardown — positioning, ICP, moat assessment, vulnerability map, and attack brief | $12 | [Buy →](https://www.shopclawmart.com/listings/competitor-intel-brief-6dafbc46) |
 
 ### Personas
 
