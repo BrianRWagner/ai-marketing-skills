@@ -63,7 +63,7 @@ Query your brand in 5 AI search scenarios. Simulate real user queries:
 - Mentioned anywhere in response: 10 points each
 - Not found: 0 points
 
-Run these queries in ChatGPT, Perplexity, and Claude. Average the results.
+Run these queries in ChatGPT, Perplexity, Claude, and Google (check AI Overviews at the top of search results). Average the results across all platforms.
 
 If competitors were provided, benchmark against them: "You scored 45. Competitor A scored 70. Competitor B scored 35."
 
@@ -121,7 +121,7 @@ Does your site use schema markup that helps AI systems understand who you are?
 - FAQ
 - Article (on blog posts)
 
-**How to check:** Use Google's Rich Results Test or Schema.org validator.
+**How to check:** Use Google's Rich Results Test or Schema.org validator. For AI agents: fetch the page source and search for `<script type="application/ld+json">` blocks, then validate the JSON structure.
 
 **Score:**
 - **Implemented correctly** — Key schemas present and valid
@@ -178,6 +178,8 @@ Based on gaps found in Sections 1-5, create a prioritized action plan:
 - Measure delta from baseline
 - Identify next priority gaps
 
+**Recommended cadence:** Run this full audit quarterly. AI systems update their knowledge bases constantly — what worked in Q1 may need adjustment by Q2.
+
 ---
 
 ## Output Format
@@ -226,7 +228,7 @@ Based on gaps found in Sections 1-5, create a prioritized action plan:
 
 ---
 
-*Built with the Signal System™ by Brian Wagner — AI Marketing Architect*
+*Built with the Signal System by Brian Wagner — AI Marketing Architect*
 ```
 
 ---
@@ -347,7 +349,7 @@ You have zero content ranking for these. That's your content roadmap.
 
 ---
 
-*Built with the Signal System™ by Brian Wagner — AI Marketing Architect*
+*Built with the Signal System by Brian Wagner — AI Marketing Architect*
 
 ---
 
